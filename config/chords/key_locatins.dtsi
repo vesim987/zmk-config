@@ -1,0 +1,41 @@
+// this seems to be wrong for the last row
+#define RC_COMBO(row, col) (((row) * 12) + col)
+
+#define P_Q RC_COMBO(1, 1)
+#define P_W RC_COMBO(1, 2)
+#define P_E RC_COMBO(1, 3)
+#define P_R RC_COMBO(1, 4)
+#define P_T RC_COMBO(1, 5)
+
+#define P_Y RC_COMBO(1, 6)
+#define P_U RC_COMBO(1, 7)
+#define P_I RC_COMBO(1, 8)
+#define P_O RC_COMBO(1, 9)
+#define P_P RC_COMBO(1, 9)
+
+
+#define P_A RC_COMBO(2, 1)
+#define P_S RC_COMBO(2, 2)
+#define P_D RC_COMBO(2, 3)
+#define P_F RC_COMBO(2, 4)
+#define P_G RC_COMBO(2, 5)
+
+#define P_H RC_COMBO(2, 6)
+#define P_J RC_COMBO(2, 7)
+#define P_K RC_COMBO(2, 8)
+#define P_L RC_COMBO(2, 9)
+#define P_SEMI RC_COMBO(2, 10)
+
+
+#define P_Z RC_COMBO(3, 1)
+#define P_X RC_COMBO(3, 2)
+#define P_C RC_COMBO(3, 3)
+#define P_V RC_COMBO(3, 4)
+#define P_B RC_COMBO(3, 5)
+#define P_N RC_COMBO(3, 6)
+#define P_M RC_COMBO(3, 7)
+#define P_COMA RC_COMBO(3, 8)
+#define P_DOT RC_COMBO(3, 9)
+#define P_SQT RC_COMBO(3, 11)
+
+#define P_COMBO 53 54

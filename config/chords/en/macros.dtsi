@@ -1,0 +1,4050 @@
+chord_en_e: chord_en_e {
+    label = "macro_chord_en_e";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp E &kp SPC>;
+};
+chord_en_a: chord_en_a {
+    label = "macro_chord_en_a";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp N &kp D &kp SPC>;
+};
+chord_en_o: chord_en_o {
+    label = "macro_chord_en_o";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp Y &kp O &kp U &kp SPC>;
+};
+chord_en_ah: chord_en_ah {
+    label = "macro_chord_en_ah";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp A &kp T &kp SPC>;
+};
+chord_en_as: chord_en_as {
+    label = "macro_chord_en_as";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp A &kp S &kp SPC>;
+};
+chord_en_f: chord_en_f {
+    label = "macro_chord_en_f";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp O &kp R &kp SPC>;
+};
+chord_en_ae: chord_en_ae {
+    label = "macro_chord_en_ae";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp R &kp E &kp SPC>;
+};
+chord_en_h: chord_en_h {
+    label = "macro_chord_en_h";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp I &kp T &kp H &kp SPC>;
+};
+chord_en_hi: chord_en_hi {
+    label = "macro_chord_en_hi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp I &kp S &kp SPC>;
+};
+chord_en_eh: chord_en_eh {
+    label = "macro_chord_en_eh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp E &kp Y &kp SPC>;
+};
+chord_en_en: chord_en_en {
+    label = "macro_chord_en_en";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp N &kp E &kp SPC>;
+};
+chord_en_aeh: chord_en_aeh {
+    label = "macro_chord_en_aeh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp A &kp V &kp E &kp SPC>;
+};
+chord_en_his: chord_en_his {
+    label = "macro_chord_en_his";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp I &kp S &kp SPC>;
+};
+chord_en_fm: chord_en_fm {
+    label = "macro_chord_en_fm";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp R &kp O &kp M &kp SPC>;
+};
+chord_en_ad: chord_en_ad {
+    label = "macro_chord_en_ad";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp D &kp D &kp SPC>;
+};
+chord_en_ho: chord_en_ho {
+    label = "macro_chord_en_ho";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp O &kp T &kp SPC>;
+};
+chord_en_b: chord_en_b {
+    label = "macro_chord_en_b";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp U &kp T &kp SPC>;
+};
+chord_en_em: chord_en_em {
+    label = "macro_chord_en_em";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp O &kp M &kp E &kp SPC>;
+};
+chord_en_aht: chord_en_aht {
+    label = "macro_chord_en_aht";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp H &kp A &kp T &kp SPC>;
+};
+chord_en_ehr: chord_en_ehr {
+    label = "macro_chord_en_ehr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp E &kp R &kp E &kp SPC>;
+};
+chord_en_ac: chord_en_ac {
+    label = "macro_chord_en_ac";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp A &kp N &kp SPC>;
+};
+chord_en_ot: chord_en_ot {
+    label = "macro_chord_en_ot";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp O &kp O &kp SPC>;
+};
+chord_en_eho: chord_en_eho {
+    label = "macro_chord_en_eho";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp T &kp H &kp E &kp R &kp SPC>;
+};
+chord_en_er: chord_en_er {
+    label = "macro_chord_en_er";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp E &kp R &kp E &kp SPC>;
+};
+chord_en_al: chord_en_al {
+    label = "macro_chord_en_al";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp L &kp L &kp SPC>;
+};
+chord_en_or: chord_en_or {
+    label = "macro_chord_en_or";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp Y &kp O &kp U &kp R &kp SPC>;
+};
+chord_en_ehn: chord_en_ehn {
+    label = "macro_chord_en_ehn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp H &kp E &kp N &kp SPC>;
+};
+chord_en_es: chord_en_es {
+    label = "macro_chord_en_es";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp E &kp E &kp SPC>;
+};
+chord_en_d: chord_en_d {
+    label = "macro_chord_en_d";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp O &kp R &kp D &kp SPC>;
+};
+chord_en_how: chord_en_how {
+    label = "macro_chord_en_how";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp H &kp O &kp SPC>;
+};
+chord_en_adi: chord_en_adi {
+    label = "macro_chord_en_adi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp A &kp I &kp D &kp SPC>;
+};
+chord_en_ace: chord_en_ace {
+    label = "macro_chord_en_ace";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp E &kp A &kp C &kp H &kp SPC>;
+};
+chord_en_ehs: chord_en_ehs {
+    label = "macro_chord_en_ehs";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp H &kp E &kp SPC>;
+};
+chord_en_c: chord_en_c {
+    label = "macro_chord_en_c";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp H &kp I &kp C &kp H &kp SPC>;
+};
+chord_en_ehi: chord_en_ehi {
+    label = "macro_chord_en_ehi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp E &kp I &kp R &kp SPC>;
+};
+chord_en_ei: chord_en_ei {
+    label = "macro_chord_en_ei";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp I &kp M &kp E &kp SPC>;
+};
+chord_en_i: chord_en_i {
+    label = "macro_chord_en_i";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp I &kp L &kp L &kp SPC>;
+};
+chord_en_aw: chord_en_aw {
+    label = "macro_chord_en_aw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp A &kp Y &kp SPC>;
+};
+chord_en_ab: chord_en_ab {
+    label = "macro_chord_en_ab";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp B &kp O &kp U &kp T &kp SPC>;
+};
+chord_en_am: chord_en_am {
+    label = "macro_chord_en_am";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp A &kp N &kp Y &kp SPC>;
+};
+chord_en_ehnt: chord_en_ehnt {
+    label = "macro_chord_en_ehnt";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp E &kp N &kp SPC>;
+};
+chord_en_ehm: chord_en_ehm {
+    label = "macro_chord_en_ehm";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp E &kp M &kp SPC>;
+};
+chord_en_dl: chord_en_dl {
+    label = "macro_chord_en_dl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp O &kp U &kp L &kp D &kp SPC>;
+};
+chord_en_eir: chord_en_eir {
+    label = "macro_chord_en_eir";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp R &kp I &kp T &kp E &kp SPC>;
+};
+chord_en_eik: chord_en_eik {
+    label = "macro_chord_en_eik";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp I &kp K &kp E &kp SPC>;
+};
+chord_en_ehst: chord_en_ehst {
+    label = "macro_chord_en_ehst";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp E &kp S &kp E &kp SPC>;
+};
+chord_en_g: chord_en_g {
+    label = "macro_chord_en_g";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp O &kp N &kp G &kp SPC>;
+};
+chord_en_aek: chord_en_aek {
+    label = "macro_chord_en_aek";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp A &kp K &kp E &kp SPC>;
+};
+chord_en_gh: chord_en_gh {
+    label = "macro_chord_en_gh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp I &kp N &kp G &kp SPC>;
+};
+chord_en_him: chord_en_him {
+    label = "macro_chord_en_him";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp I &kp M &kp SPC>;
+};
+chord_en_otw: chord_en_otw {
+    label = "macro_chord_en_otw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp W &kp O &kp SPC>;
+};
+chord_en_ahs: chord_en_ahs {
+    label = "macro_chord_en_ahs";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp A &kp S &kp SPC>;
+};
+chord_en_k: chord_en_k {
+    label = "macro_chord_en_k";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp O &kp O &kp K &kp SPC>;
+};
+chord_en_emo: chord_en_emo {
+    label = "macro_chord_en_emo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp O &kp R &kp E &kp SPC>;
+};
+chord_en_ady: chord_en_ady {
+    label = "macro_chord_en_ady";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp A &kp Y &kp SPC>;
+};
+chord_en_cd: chord_en_cd {
+    label = "macro_chord_en_cd";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp O &kp U &kp L &kp D &kp SPC>;
+};
+chord_en_ce: chord_en_ce {
+    label = "macro_chord_en_ce";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp O &kp M &kp E &kp SPC>;
+};
+chord_en_di: chord_en_di {
+    label = "macro_chord_en_di";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp I &kp D &kp SPC>;
+};
+chord_en_dn: chord_en_dn {
+    label = "macro_chord_en_dn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp O &kp U &kp N &kp D &kp SPC>;
+};
+chord_en_m: chord_en_m {
+    label = "macro_chord_en_m";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp O &kp S &kp T &kp SPC>;
+};
+chord_en_be: chord_en_be {
+    label = "macro_chord_en_be";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp U &kp M &kp B &kp E &kp R &kp SPC>;
+};
+chord_en_eo: chord_en_eo {
+    label = "macro_chord_en_eo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp V &kp E &kp R &kp SPC>;
+};
+chord_en_kn: chord_en_kn {
+    label = "macro_chord_en_kn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp K &kp N &kp O &kp W &kp SPC>;
+};
+chord_en_aer: chord_en_aer {
+    label = "macro_chord_en_aer";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp R &kp E &kp A &kp SPC>;
+};
+chord_en_ahn: chord_en_ahn {
+    label = "macro_chord_en_ahn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp A &kp N &kp SPC>;
+};
+chord_en_acl: chord_en_acl {
+    label = "macro_chord_en_acl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp A &kp L &kp L &kp SPC>;
+};
+chord_en_fi: chord_en_fi {
+    label = "macro_chord_en_fi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp I &kp R &kp S &kp T &kp SPC>;
+};
+chord_en_el: chord_en_el {
+    label = "macro_chord_en_el";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp E &kp O &kp P &kp L &kp E &kp SPC>;
+};
+chord_en_amy: chord_en_amy {
+    label = "macro_chord_en_amy";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp A &kp Y &kp SPC>;
+};
+chord_en_dno: chord_en_dno {
+    label = "macro_chord_en_dno";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp O &kp W &kp N &kp SPC>;
+};
+chord_en_de: chord_en_de {
+    label = "macro_chord_en_de";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp I &kp D &kp E &kp SPC>;
+};
+chord_en_ben: chord_en_ben {
+    label = "macro_chord_en_ben";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp E &kp E &kp N &kp SPC>;
+};
+chord_en_n: chord_en_n {
+    label = "macro_chord_en_n";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp O &kp W &kp SPC>;
+};
+chord_en_df: chord_en_df {
+    label = "macro_chord_en_df";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp I &kp N &kp D &kp SPC>;
+};
+chord_en_an: chord_en_an {
+    label = "macro_chord_en_an";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp N &kp Y &kp SPC>;
+};
+chord_en_enw: chord_en_enw {
+    label = "macro_chord_en_enw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp E &kp W &kp SPC>;
+};
+chord_en_ko: chord_en_ko {
+    label = "macro_chord_en_ko";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp O &kp R &kp K &kp SPC>;
+};
+chord_en_ap: chord_en_ap {
+    label = "macro_chord_en_ap";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp A &kp R &kp T &kp SPC>;
+};
+chord_en_aekt: chord_en_aekt {
+    label = "macro_chord_en_aekt";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp A &kp K &kp E &kp SPC>;
+};
+chord_en_eg: chord_en_eg {
+    label = "macro_chord_en_eg";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp E &kp T &kp SPC>;
+};
+chord_en_acel: chord_en_acel {
+    label = "macro_chord_en_acel";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp L &kp A &kp C &kp E &kp SPC>;
+};
+chord_en_ade: chord_en_ade {
+    label = "macro_chord_en_ade";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp A &kp D &kp E &kp SPC>;
+};
+chord_en_eil: chord_en_eil {
+    label = "macro_chord_en_eil";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp I &kp V &kp E &kp SPC>;
+};
+chord_en_ehrw: chord_en_ehrw {
+    label = "macro_chord_en_ehrw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp H &kp E &kp R &kp E &kp SPC>;
+};
+chord_en_aef: chord_en_aef {
+    label = "macro_chord_en_aef";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp F &kp T &kp E &kp R &kp SPC>;
+};
+chord_en_abc: chord_en_abc {
+    label = "macro_chord_en_abc";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp A &kp C &kp K &kp SPC>;
+};
+chord_en_eilt: chord_en_eilt {
+    label = "macro_chord_en_eilt";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp I &kp T &kp T &kp L &kp E &kp SPC>;
+};
+chord_en_l: chord_en_l {
+    label = "macro_chord_en_l";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp N &kp L &kp Y &kp SPC>;
+};
+chord_en_dnor: chord_en_dnor {
+    label = "macro_chord_en_dnor";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp O &kp U &kp N &kp D &kp SPC>;
+};
+chord_en_amn: chord_en_amn {
+    label = "macro_chord_en_amn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp A &kp N &kp SPC>;
+};
+chord_en_aery: chord_en_aery {
+    label = "macro_chord_en_aery";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp Y &kp E &kp A &kp R &kp SPC>;
+};
+chord_en_acem: chord_en_acem {
+    label = "macro_chord_en_acem";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp A &kp M &kp E &kp SPC>;
+};
+chord_en_hos: chord_en_hos {
+    label = "macro_chord_en_hos";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp H &kp O &kp W &kp SPC>;
+};
+chord_en_erv: chord_en_erv {
+    label = "macro_chord_en_erv";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp E &kp V &kp E &kp R &kp SPC>;
+};
+chord_en_dg: chord_en_dg {
+    label = "macro_chord_en_dg";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp O &kp O &kp D &kp SPC>;
+};
+chord_en_egi: chord_en_egi {
+    label = "macro_chord_en_egi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp I &kp V &kp E &kp SPC>;
+};
+chord_en_oru: chord_en_oru {
+    label = "macro_chord_en_oru";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp U &kp R &kp SPC>;
+};
+chord_en_den: chord_en_den {
+    label = "macro_chord_en_den";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp E &kp E &kp D &kp SPC>;
+};
+chord_en_aem: chord_en_aem {
+    label = "macro_chord_en_aem";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp A &kp M &kp E &kp SPC>;
+};
+chord_en_ervy: chord_en_ervy {
+    label = "macro_chord_en_ervy";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp V &kp E &kp R &kp Y &kp SPC>;
+};
+chord_en_gho: chord_en_gho {
+    label = "macro_chord_en_gho";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp R &kp O &kp U &kp G &kp H &kp SPC>;
+};
+chord_en_j: chord_en_j {
+    label = "macro_chord_en_j";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp J &kp U &kp S &kp T &kp SPC>;
+};
+chord_en_fmo: chord_en_fmo {
+    label = "macro_chord_en_fmo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp O &kp R &kp M &kp SPC>;
+};
+chord_en_ch: chord_en_ch {
+    label = "macro_chord_en_ch";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp U &kp C &kp H &kp SPC>;
+};
+chord_en_aeg: chord_en_aeg {
+    label = "macro_chord_en_aeg";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp G &kp E &kp SPC>;
+};
+chord_en_hik: chord_en_hik {
+    label = "macro_chord_en_hik";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp I &kp N &kp K &kp SPC>;
+};
+chord_en_asy: chord_en_asy {
+    label = "macro_chord_en_asy";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp A &kp Y &kp SPC>;
+};
+chord_en_ehl: chord_en_ehl {
+    label = "macro_chord_en_ehl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp E &kp L &kp P &kp SPC>;
+};
+chord_en_lo: chord_en_lo {
+    label = "macro_chord_en_lo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp O &kp W &kp SPC>;
+};
+chord_en_eiln: chord_en_eiln {
+    label = "macro_chord_en_eiln";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp I &kp N &kp E &kp SPC>;
+};
+chord_en_bef: chord_en_bef {
+    label = "macro_chord_en_bef";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp E &kp F &kp O &kp R &kp E &kp SPC>;
+};
+chord_en_nr: chord_en_nr {
+    label = "macro_chord_en_nr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp U &kp R &kp N &kp SPC>;
+};
+chord_en_aces: chord_en_aces {
+    label = "macro_chord_en_aces";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp A &kp U &kp S &kp E &kp SPC>;
+};
+chord_en_aems: chord_en_aems {
+    label = "macro_chord_en_aems";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp A &kp M &kp E &kp SPC>;
+};
+chord_en_aemn: chord_en_aemn {
+    label = "macro_chord_en_aemn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp E &kp A &kp N &kp SPC>;
+};
+chord_en_def: chord_en_def {
+    label = "macro_chord_en_def";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp I &kp F &kp F &kp E &kp R &kp SPC>;
+};
+chord_en_emov: chord_en_emov {
+    label = "macro_chord_en_emov";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp O &kp V &kp E &kp SPC>;
+};
+chord_en_ghi: chord_en_ghi {
+    label = "macro_chord_en_ghi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp I &kp G &kp H &kp SPC>;
+};
+chord_en_bo: chord_en_bo {
+    label = "macro_chord_en_bo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp O &kp Y &kp SPC>;
+};
+chord_en_dlo: chord_en_dlo {
+    label = "macro_chord_en_dlo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp L &kp D &kp SPC>;
+};
+chord_en_deo: chord_en_deo {
+    label = "macro_chord_en_deo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp O &kp E &kp S &kp SPC>;
+};
+chord_en_elt: chord_en_elt {
+    label = "macro_chord_en_elt";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp E &kp T &kp SPC>;
+};
+chord_en_cen: chord_en_cen {
+    label = "macro_chord_en_cen";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp E &kp N &kp T &kp E &kp N &kp C &kp E &kp SPC>;
+};
+chord_en_est: chord_en_est {
+    label = "macro_chord_en_est";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp E &kp S &kp T &kp SPC>;
+};
+chord_en_ehrt: chord_en_ehrt {
+    label = "macro_chord_en_ehrt";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp R &kp E &kp E &kp SPC>;
+};
+chord_en_ant: chord_en_ant {
+    label = "macro_chord_en_ant";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp A &kp N &kp T &kp SPC>;
+};
+chord_en_ai: chord_en_ai {
+    label = "macro_chord_en_ai";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp I &kp R &kp SPC>;
+};
+chord_en_elw: chord_en_elw {
+    label = "macro_chord_en_elw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp E &kp L &kp L &kp SPC>;
+};
+chord_en_alo: chord_en_alo {
+    label = "macro_chord_en_alo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp L &kp S &kp O &kp SPC>;
+};
+chord_en_alp: chord_en_alp {
+    label = "macro_chord_en_alp";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp L &kp A &kp Y &kp SPC>;
+};
+chord_en_alm: chord_en_alm {
+    label = "macro_chord_en_alm";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp M &kp A &kp L &kp L &kp SPC>;
+};
+chord_en_p: chord_en_p {
+    label = "macro_chord_en_p";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp U &kp T &kp SPC>;
+};
+chord_en_ehmo: chord_en_ehmo {
+    label = "macro_chord_en_ehmo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp O &kp M &kp E &kp SPC>;
+};
+chord_en_ader: chord_en_ader {
+    label = "macro_chord_en_ader";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp E &kp A &kp D &kp SPC>;
+};
+chord_en_adh: chord_en_adh {
+    label = "macro_chord_en_adh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp A &kp N &kp D &kp SPC>;
+};
+chord_en_op: chord_en_op {
+    label = "macro_chord_en_op";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp O &kp R &kp T &kp SPC>;
+};
+chord_en_aegl: chord_en_aegl {
+    label = "macro_chord_en_aegl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp A &kp R &kp G &kp E &kp SPC>;
+};
+chord_en_elp: chord_en_elp {
+    label = "macro_chord_en_elp";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp P &kp E &kp L &kp L &kp SPC>;
+};
+chord_en_env: chord_en_env {
+    label = "macro_chord_en_env";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp E &kp V &kp E &kp N &kp SPC>;
+};
+chord_en_adl: chord_en_adl {
+    label = "macro_chord_en_adl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp A &kp N &kp D &kp SPC>;
+};
+chord_en_ms: chord_en_ms {
+    label = "macro_chord_en_ms";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp U &kp S &kp T &kp SPC>;
+};
+chord_en_bg: chord_en_bg {
+    label = "macro_chord_en_bg";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp I &kp G &kp SPC>;
+};
+chord_en_chs: chord_en_chs {
+    label = "macro_chord_en_chs";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp U &kp C &kp H &kp SPC>;
+};
+chord_en_fl: chord_en_fl {
+    label = "macro_chord_en_fl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp O &kp L &kp L &kp O &kp W &kp SPC>;
+};
+chord_en_act: chord_en_act {
+    label = "macro_chord_en_act";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp C &kp T &kp SPC>;
+};
+chord_en_hw: chord_en_hw {
+    label = "macro_chord_en_hw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp H &kp Y &kp SPC>;
+};
+chord_en_ak: chord_en_ak {
+    label = "macro_chord_en_ak";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp S &kp K &kp SPC>;
+};
+chord_en_emn: chord_en_emn {
+    label = "macro_chord_en_emn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp E &kp N &kp SPC>;
+};
+chord_en_aceg: chord_en_aceg {
+    label = "macro_chord_en_aceg";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp H &kp A &kp N &kp G &kp E &kp SPC>;
+};
+chord_en_ent: chord_en_ent {
+    label = "macro_chord_en_ent";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp E &kp N &kp SPC>;
+};
+chord_en_ghil: chord_en_ghil {
+    label = "macro_chord_en_ghil";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp I &kp G &kp H &kp T &kp SPC>;
+};
+chord_en_dik: chord_en_dik {
+    label = "macro_chord_en_dik";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp K &kp I &kp N &kp D &kp SPC>;
+};
+chord_en_fo: chord_en_fo {
+    label = "macro_chord_en_fo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp F &kp F &kp SPC>;
+};
+chord_en_ehos: chord_en_ehos {
+    label = "macro_chord_en_ehos";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp O &kp U &kp S &kp E &kp SPC>;
+};
+chord_en_cei: chord_en_cei {
+    label = "macro_chord_en_cei";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp I &kp C &kp T &kp U &kp R &kp E &kp SPC>;
+};
+chord_en_r: chord_en_r {
+    label = "macro_chord_en_r";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp R &kp Y &kp SPC>;
+};
+chord_en_ag: chord_en_ag {
+    label = "macro_chord_en_ag";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp G &kp A &kp I &kp N &kp SPC>;
+};
+chord_en_ail: chord_en_ail {
+    label = "macro_chord_en_ail";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp N &kp I &kp M &kp A &kp L &kp SPC>;
+};
+chord_en_in: chord_en_in {
+    label = "macro_chord_en_in";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp O &kp I &kp N &kp T &kp SPC>;
+};
+chord_en_ehmor: chord_en_ehmor {
+    label = "macro_chord_en_ehmor";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp O &kp T &kp H &kp E &kp R &kp SPC>;
+};
+chord_en_dlor: chord_en_dlor {
+    label = "macro_chord_en_dlor";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp O &kp R &kp L &kp D &kp SPC>;
+};
+chord_en_aen: chord_en_aen {
+    label = "macro_chord_en_aen";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp E &kp A &kp R &kp SPC>;
+};
+chord_en_bd: chord_en_bd {
+    label = "macro_chord_en_bd";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp U &kp I &kp L &kp D &kp SPC>;
+};
+chord_en_ef: chord_en_ef {
+    label = "macro_chord_en_ef";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp E &kp L &kp F &kp SPC>;
+};
+chord_en_aehr: chord_en_aehr {
+    label = "macro_chord_en_aehr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp E &kp A &kp R &kp SPC>;
+};
+chord_en_aefh: chord_en_aefh {
+    label = "macro_chord_en_aefh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp A &kp T &kp H &kp E &kp R &kp SPC>;
+};
+chord_en_adeh: chord_en_adeh {
+    label = "macro_chord_en_adeh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp E &kp A &kp D &kp SPC>;
+};
+chord_en_adn: chord_en_adn {
+    label = "macro_chord_en_adn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp A &kp N &kp D &kp SPC>;
+};
+chord_en_no: chord_en_no {
+    label = "macro_chord_en_no";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp W &kp N &kp SPC>;
+};
+chord_en_aegp: chord_en_aegp {
+    label = "macro_chord_en_aegp";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp A &kp G &kp E &kp SPC>;
+};
+chord_en_dh: chord_en_dh {
+    label = "macro_chord_en_dh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp H &kp O &kp U &kp L &kp D &kp SPC>;
+};
+chord_en_cn: chord_en_cn {
+    label = "macro_chord_en_cn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp O &kp U &kp N &kp T &kp R &kp Y &kp SPC>;
+};
+chord_en_dfn: chord_en_dfn {
+    label = "macro_chord_en_dfn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp O &kp U &kp N &kp D &kp SPC>;
+};
+chord_en_aenr: chord_en_aenr {
+    label = "macro_chord_en_aenr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp N &kp S &kp W &kp E &kp R &kp SPC>;
+};
+chord_en_chl: chord_en_chl {
+    label = "macro_chord_en_chl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp C &kp H &kp O &kp O &kp L &kp SPC>;
+};
+chord_en_go: chord_en_go {
+    label = "macro_chord_en_go";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp R &kp O &kp W &kp SPC>;
+};
+chord_en_ds: chord_en_ds {
+    label = "macro_chord_en_ds";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp U &kp D &kp Y &kp SPC>;
+};
+chord_en_il: chord_en_il {
+    label = "macro_chord_en_il";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp I &kp L &kp L &kp SPC>;
+};
+chord_en_ael: chord_en_ael {
+    label = "macro_chord_en_ael";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp E &kp A &kp R &kp N &kp SPC>;
+};
+chord_en_aln: chord_en_aln {
+    label = "macro_chord_en_aln";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp L &kp A &kp N &kp T &kp SPC>;
+};
+chord_en_ceo: chord_en_ceo {
+    label = "macro_chord_en_ceo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp O &kp V &kp E &kp R &kp SPC>;
+};
+chord_en_dfo: chord_en_dfo {
+    label = "macro_chord_en_dfo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp O &kp O &kp D &kp SPC>;
+};
+chord_en_ns: chord_en_ns {
+    label = "macro_chord_en_ns";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp U &kp N &kp SPC>;
+};
+chord_en_for: chord_en_for {
+    label = "macro_chord_en_for";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp O &kp U &kp R &kp SPC>;
+};
+chord_en_ghot: chord_en_ghot {
+    label = "macro_chord_en_ghot";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp O &kp U &kp G &kp H &kp T &kp SPC>;
+};
+chord_en_ek: chord_en_ek {
+    label = "macro_chord_en_ek";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp K &kp E &kp E &kp P &kp SPC>;
+};
+chord_en_ey: chord_en_ey {
+    label = "macro_chord_en_ey";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp E &kp Y &kp E &kp SPC>;
+};
+chord_en_enr: chord_en_enr {
+    label = "macro_chord_en_enr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp E &kp V &kp E &kp R &kp SPC>;
+};
+chord_en_als: chord_en_als {
+    label = "macro_chord_en_als";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp A &kp S &kp T &kp SPC>;
+};
+chord_en_do: chord_en_do {
+    label = "macro_chord_en_do";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp O &kp O &kp R &kp SPC>;
+};
+chord_en_bent: chord_en_bent {
+    label = "macro_chord_en_bent";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp E &kp T &kp W &kp E &kp E &kp N &kp SPC>;
+};
+chord_en_ci: chord_en_ci {
+    label = "macro_chord_en_ci";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp I &kp T &kp Y &kp SPC>;
+};
+chord_en_ert: chord_en_ert {
+    label = "macro_chord_en_ert";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp R &kp E &kp E &kp SPC>;
+};
+chord_en_co: chord_en_co {
+    label = "macro_chord_en_co";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp R &kp O &kp S &kp S &kp SPC>;
+};
+chord_en_cein: chord_en_cein {
+    label = "macro_chord_en_cein";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp I &kp N &kp C &kp E &kp SPC>;
+};
+chord_en_adhr: chord_en_adhr {
+    label = "macro_chord_en_adhr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp A &kp R &kp D &kp SPC>;
+};
+chord_en_ar: chord_en_ar {
+    label = "macro_chord_en_ar";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp A &kp R &kp T &kp SPC>;
+};
+chord_en_ghim: chord_en_ghim {
+    label = "macro_chord_en_ghim";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp I &kp G &kp H &kp T &kp SPC>;
+};
+chord_en_ors: chord_en_ors {
+    label = "macro_chord_en_ors";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp O &kp R &kp Y &kp SPC>;
+};
+chord_en_asw: chord_en_asw {
+    label = "macro_chord_en_asw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp A &kp W &kp SPC>;
+};
+chord_en_af: chord_en_af {
+    label = "macro_chord_en_af";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp A &kp R &kp SPC>;
+};
+chord_en_aes: chord_en_aes {
+    label = "macro_chord_en_aes";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp E &kp A &kp S &kp E &kp SPC>;
+};
+chord_en_adr: chord_en_adr {
+    label = "macro_chord_en_adr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp R &kp A &kp W &kp SPC>;
+};
+chord_en_efl: chord_en_efl {
+    label = "macro_chord_en_efl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp E &kp E &kp L &kp SPC>;
+};
+chord_en_aelt: chord_en_aelt {
+    label = "macro_chord_en_aelt";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp A &kp T &kp E &kp SPC>;
+};
+chord_en_nru: chord_en_nru {
+    label = "macro_chord_en_nru";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp U &kp N &kp SPC>;
+};
+chord_en_SQT: chord_en_SQT {
+    label = "macro_chord_en_SQT";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp O &kp N &kp SQT &kp T &kp SPC>;
+};
+chord_en_ehil: chord_en_ehil {
+    label = "macro_chord_en_ehil";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp H &kp I &kp L &kp E &kp SPC>;
+};
+chord_en_ep: chord_en_ep {
+    label = "macro_chord_en_ep";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp R &kp E &kp S &kp S &kp SPC>;
+};
+chord_en_cel: chord_en_cel {
+    label = "macro_chord_en_cel";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp L &kp O &kp S &kp E &kp SPC>;
+};
+chord_en_ghin: chord_en_ghin {
+    label = "macro_chord_en_ghin";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp I &kp G &kp H &kp T &kp SPC>;
+};
+chord_en_aelr: chord_en_aelr {
+    label = "macro_chord_en_aelr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp E &kp A &kp L &kp SPC>;
+};
+chord_en_efi: chord_en_efi {
+    label = "macro_chord_en_efi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp I &kp F &kp E &kp SPC>;
+};
+chord_en_efw: chord_en_efw {
+    label = "macro_chord_en_efw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp E &kp W &kp SPC>;
+};
+chord_en_ops: chord_en_ops {
+    label = "macro_chord_en_ops";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp O &kp P &kp SPC>;
+};
+chord_en_eno: chord_en_eno {
+    label = "macro_chord_en_eno";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp P &kp E &kp N &kp SPC>;
+};
+chord_en_ems: chord_en_ems {
+    label = "macro_chord_en_ems";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp E &kp E &kp M &kp SPC>;
+};
+chord_en_egh: chord_en_egh {
+    label = "macro_chord_en_egh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp O &kp G &kp E &kp T &kp H &kp E &kp R &kp SPC>;
+};
+chord_en_entx: chord_en_entx {
+    label = "macro_chord_en_entx";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp E &kp X &kp T &kp SPC>;
+};
+chord_en_ehit: chord_en_ehit {
+    label = "macro_chord_en_ehit";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp H &kp I &kp T &kp E &kp SPC>;
+};
+chord_en_cde: chord_en_cde {
+    label = "macro_chord_en_cde";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp H &kp I &kp L &kp D &kp R &kp E &kp N &kp SPC>;
+};
+chord_en_beg: chord_en_beg {
+    label = "macro_chord_en_beg";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp E &kp G &kp I &kp N &kp SPC>;
+};
+chord_en_got: chord_en_got {
+    label = "macro_chord_en_got";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp O &kp T &kp SPC>;
+};
+chord_en_akl: chord_en_akl {
+    label = "macro_chord_en_akl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp A &kp L &kp K &kp SPC>;
+};
+chord_en_aelm: chord_en_aelm {
+    label = "macro_chord_en_aelm";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp E &kp X &kp A &kp M &kp P &kp L &kp E &kp SPC>;
+};
+chord_en_aep: chord_en_aep {
+    label = "macro_chord_en_aep";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp A &kp P &kp E &kp R &kp SPC>;
+};
+chord_en_efn: chord_en_efn {
+    label = "macro_chord_en_efn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp F &kp T &kp E &kp N &kp SPC>;
+};
+chord_en_alsw: chord_en_alsw {
+    label = "macro_chord_en_alsw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp L &kp W &kp A &kp Y &kp S &kp SPC>;
+};
+chord_en_cim: chord_en_cim {
+    label = "macro_chord_en_cim";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp U &kp S &kp I &kp C &kp SPC>;
+};
+chord_en_ehost: chord_en_ehost {
+    label = "macro_chord_en_ehost";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp O &kp S &kp E &kp SPC>;
+};
+chord_en_bh: chord_en_bh {
+    label = "macro_chord_en_bh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp O &kp T &kp H &kp SPC>;
+};
+chord_en_akm: chord_en_akm {
+    label = "macro_chord_en_akm";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp A &kp R &kp K &kp SPC>;
+};
+chord_en_bk: chord_en_bk {
+    label = "macro_chord_en_bk";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp O &kp O &kp K &kp SPC>;
+};
+chord_en_elr: chord_en_elr {
+    label = "macro_chord_en_elr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp E &kp T &kp T &kp E &kp R &kp SPC>;
+};
+chord_en_iln: chord_en_iln {
+    label = "macro_chord_en_iln";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp U &kp N &kp T &kp I &kp L &kp SPC>;
+};
+chord_en_eilm: chord_en_eilm {
+    label = "macro_chord_en_eilm";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp I &kp L &kp E &kp SPC>;
+};
+chord_en_eirv: chord_en_eirv {
+    label = "macro_chord_en_eirv";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp I &kp V &kp E &kp R &kp SPC>;
+};
+chord_en_acr: chord_en_acr {
+    label = "macro_chord_en_acr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp A &kp R &kp SPC>;
+};
+chord_en_eft: chord_en_eft {
+    label = "macro_chord_en_eft";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp E &kp E &kp T &kp SPC>;
+};
+chord_en_acer: chord_en_acer {
+    label = "macro_chord_en_acer";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp A &kp R &kp E &kp SPC>;
+};
+chord_en_cden: chord_en_cden {
+    label = "macro_chord_en_cden";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp E &kp C &kp O &kp N &kp D &kp SPC>;
+};
+chord_en_gop: chord_en_gop {
+    label = "macro_chord_en_gop";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp R &kp O &kp U &kp P &kp SPC>;
+};
+chord_en_acry: chord_en_acry {
+    label = "macro_chord_en_acry";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp A &kp R &kp R &kp Y &kp SPC>;
+};
+chord_en_kot: chord_en_kot {
+    label = "macro_chord_en_kot";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp O &kp O &kp K &kp SPC>;
+};
+chord_en_ain: chord_en_ain {
+    label = "macro_chord_en_ain";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp A &kp I &kp N &kp SPC>;
+};
+chord_en_aet: chord_en_aet {
+    label = "macro_chord_en_aet";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp E &kp A &kp T &kp SPC>;
+};
+chord_en_mo: chord_en_mo {
+    label = "macro_chord_en_mo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp O &kp O &kp M &kp SPC>;
+};
+chord_en_defi: chord_en_defi {
+    label = "macro_chord_en_defi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp R &kp I &kp E &kp N &kp D &kp SPC>;
+};
+chord_en_abe: chord_en_abe {
+    label = "macro_chord_en_abe";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp E &kp G &kp A &kp N &kp SPC>;
+};
+chord_en_adei: chord_en_adei {
+    label = "macro_chord_en_adei";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp I &kp D &kp E &kp A &kp SPC>;
+};
+chord_en_fh: chord_en_fh {
+    label = "macro_chord_en_fh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp I &kp S &kp H &kp SPC>;
+};
+chord_en_aim: chord_en_aim {
+    label = "macro_chord_en_aim";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp O &kp U &kp N &kp T &kp A &kp I &kp N &kp SPC>;
+};
+chord_en_hn: chord_en_hn {
+    label = "macro_chord_en_hn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp O &kp R &kp T &kp H &kp SPC>;
+};
+chord_en_ceno: chord_en_ceno {
+    label = "macro_chord_en_ceno";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp N &kp C &kp E &kp SPC>;
+};
+chord_en_abes: chord_en_abes {
+    label = "macro_chord_en_abes";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp A &kp S &kp E &kp SPC>;
+};
+chord_en_ehor: chord_en_ehor {
+    label = "macro_chord_en_ehor";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp O &kp R &kp S &kp E &kp SPC>;
+};
+chord_en_ct: chord_en_ct {
+    label = "macro_chord_en_ct";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp U &kp T &kp SPC>;
+};
+chord_en_ers: chord_en_ers {
+    label = "macro_chord_en_ers";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp U &kp R &kp E &kp SPC>;
+};
+chord_en_ach: chord_en_ach {
+    label = "macro_chord_en_ach";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp A &kp T &kp C &kp H &kp SPC>;
+};
+chord_en_cl: chord_en_cl {
+    label = "macro_chord_en_cl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp O &kp L &kp O &kp R &kp SPC>;
+};
+chord_en_acef: chord_en_acef {
+    label = "macro_chord_en_acef";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp A &kp C &kp E &kp SPC>;
+};
+chord_en_dow: chord_en_dow {
+    label = "macro_chord_en_dow";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp O &kp O &kp D &kp SPC>;
+};
+chord_en_aimn: chord_en_aimn {
+    label = "macro_chord_en_aimn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp A &kp I &kp N &kp SPC>;
+};
+chord_en_eghn: chord_en_eghn {
+    label = "macro_chord_en_eghn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp E &kp N &kp O &kp U &kp G &kp H &kp SPC>;
+};
+chord_en_ailn: chord_en_ailn {
+    label = "macro_chord_en_ailn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp L &kp A &kp I &kp N &kp SPC>;
+};
+chord_en_gi: chord_en_gi {
+    label = "macro_chord_en_gi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp I &kp R &kp L &kp SPC>;
+};
+chord_en_alsu: chord_en_alsu {
+    label = "macro_chord_en_alsu";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp U &kp S &kp U &kp A &kp L &kp SPC>;
+};
+chord_en_gn: chord_en_gn {
+    label = "macro_chord_en_gn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp Y &kp O &kp U &kp N &kp G &kp SPC>;
+};
+chord_en_adery: chord_en_adery {
+    label = "macro_chord_en_adery";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp E &kp A &kp D &kp Y &kp SPC>;
+};
+chord_en_abeo: chord_en_abeo {
+    label = "macro_chord_en_abeo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp B &kp O &kp V &kp E &kp SPC>;
+};
+chord_en_der: chord_en_der {
+    label = "macro_chord_en_der";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp E &kp D &kp SPC>;
+};
+chord_en_ils: chord_en_ils {
+    label = "macro_chord_en_ils";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp I &kp S &kp T &kp SPC>;
+};
+chord_en_ghotu: chord_en_ghotu {
+    label = "macro_chord_en_ghotu";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp O &kp U &kp G &kp H &kp SPC>;
+};
+chord_en_aklt: chord_en_aklt {
+    label = "macro_chord_en_aklt";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp A &kp L &kp K &kp SPC>;
+};
+chord_en_bdi: chord_en_bdi {
+    label = "macro_chord_en_bdi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp I &kp R &kp D &kp SPC>;
+};
+chord_en_nos: chord_en_nos {
+    label = "macro_chord_en_nos";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp O &kp O &kp N &kp SPC>;
+};
+chord_en_bdo: chord_en_bdo {
+    label = "macro_chord_en_bdo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp O &kp D &kp Y &kp SPC>;
+};
+chord_en_dgo: chord_en_dgo {
+    label = "macro_chord_en_dgo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp O &kp G &kp SPC>;
+};
+chord_en_afi: chord_en_afi {
+    label = "macro_chord_en_afi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp A &kp M &kp I &kp L &kp Y &kp SPC>;
+};
+chord_en_cdei: chord_en_cdei {
+    label = "macro_chord_en_cdei";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp E &kp C &kp I &kp D &kp E &kp SPC>;
+};
+chord_en_eop: chord_en_eop {
+    label = "macro_chord_en_eop";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp O &kp S &kp E &kp SPC>;
+};
+chord_en_aelv: chord_en_aelv {
+    label = "macro_chord_en_aelv";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp E &kp A &kp V &kp E &kp SPC>;
+};
+chord_en_gno: chord_en_gno {
+    label = "macro_chord_en_gno";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp O &kp N &kp G &kp SPC>;
+};
+chord_en_aemr: chord_en_aemr {
+    label = "macro_chord_en_aemr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp E &kp A &kp S &kp U &kp R &kp E &kp SPC>;
+};
+chord_en_aest: chord_en_aest {
+    label = "macro_chord_en_aest";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp E &kp A &kp S &kp T &kp SPC>;
+};
+chord_en_cdo: chord_en_cdo {
+    label = "macro_chord_en_cdo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp R &kp O &kp D &kp U &kp C &kp T &kp SPC>;
+};
+chord_en_abck: chord_en_abck {
+    label = "macro_chord_en_abck";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp L &kp A &kp C &kp K &kp SPC>;
+};
+chord_en_hor: chord_en_hor {
+    label = "macro_chord_en_hor";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp H &kp O &kp R &kp T &kp SPC>;
+};
+chord_en_aelmn: chord_en_aelmn {
+    label = "macro_chord_en_aelmn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp U &kp M &kp E &kp R &kp A &kp L &kp SPC>;
+};
+chord_en_acls: chord_en_acls {
+    label = "macro_chord_en_acls";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp L &kp A &kp S &kp S &kp SPC>;
+};
+chord_en_din: chord_en_din {
+    label = "macro_chord_en_din";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp I &kp N &kp D &kp SPC>;
+};
+chord_en_ein: chord_en_ein {
+    label = "macro_chord_en_ein";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp Q &kp U &kp E &kp S &kp T &kp I &kp O &kp N &kp SPC>;
+};
+chord_en_aehn: chord_en_aehn {
+    label = "macro_chord_en_aehn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp A &kp P &kp P &kp E &kp N &kp SPC>;
+};
+chord_en_celm: chord_en_celm {
+    label = "macro_chord_en_celm";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp O &kp M &kp P &kp L &kp E &kp T &kp E &kp SPC>;
+};
+chord_en_hip: chord_en_hip {
+    label = "macro_chord_en_hip";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp H &kp I &kp P &kp SPC>;
+};
+chord_en_afh: chord_en_afh {
+    label = "macro_chord_en_afh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp A &kp L &kp F &kp SPC>;
+};
+chord_en_ck: chord_en_ck {
+    label = "macro_chord_en_ck";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp O &kp C &kp K &kp SPC>;
+};
+chord_en_deor: chord_en_deor {
+    label = "macro_chord_en_deor";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp R &kp D &kp E &kp R &kp SPC>;
+};
+chord_en_efir: chord_en_efir {
+    label = "macro_chord_en_efir";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp I &kp R &kp E &kp SPC>;
+};
+chord_en_host: chord_en_host {
+    label = "macro_chord_en_host";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp O &kp U &kp T &kp H &kp SPC>;
+};
+chord_en_bel: chord_en_bel {
+    label = "macro_chord_en_bel";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp R &kp O &kp B &kp L &kp E &kp M &kp SPC>;
+};
+chord_en_ceip: chord_en_ceip {
+    label = "macro_chord_en_ceip";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp I &kp E &kp C &kp E &kp SPC>;
+};
+chord_en_dlot: chord_en_dlot {
+    label = "macro_chord_en_dlot";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp O &kp L &kp D &kp SPC>;
+};
+chord_en_ekn: chord_en_ekn {
+    label = "macro_chord_en_ekn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp K &kp N &kp E &kp W &kp SPC>;
+};
+chord_en_aps: chord_en_aps {
+    label = "macro_chord_en_aps";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp A &kp S &kp S &kp SPC>;
+};
+chord_en_afm: chord_en_afm {
+    label = "macro_chord_en_afm";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp A &kp R &kp M &kp SPC>;
+};
+chord_en_opt: chord_en_opt {
+    label = "macro_chord_en_opt";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp O &kp P &kp SPC>;
+};
+chord_en_ehlo: chord_en_ehlo {
+    label = "macro_chord_en_ehlo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp H &kp O &kp L &kp E &kp SPC>;
+};
+chord_en_gik: chord_en_gik {
+    label = "macro_chord_en_gik";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp K &kp I &kp N &kp G &kp SPC>;
+};
+chord_en_eis: chord_en_eis {
+    label = "macro_chord_en_eis";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp I &kp Z &kp E &kp SPC>;
+};
+chord_en_adehr: chord_en_adehr {
+    label = "macro_chord_en_adehr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp E &kp A &kp R &kp D &kp SPC>;
+};
+chord_en_bes: chord_en_bes {
+    label = "macro_chord_en_bes";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp E &kp S &kp T &kp SPC>;
+};
+chord_en_horu: chord_en_horu {
+    label = "macro_chord_en_horu";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp O &kp U &kp R &kp SPC>;
+};
+chord_en_ber: chord_en_ber {
+    label = "macro_chord_en_ber";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp E &kp T &kp T &kp E &kp R &kp SPC>;
+};
+chord_en_ertu: chord_en_ertu {
+    label = "macro_chord_en_ertu";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp R &kp U &kp E &kp SPC>;
+};
+chord_en_dgi: chord_en_dgi {
+    label = "macro_chord_en_dgi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp U &kp R &kp I &kp N &kp G &kp SPC>;
+};
+chord_en_deh: chord_en_deh {
+    label = "macro_chord_en_deh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp U &kp N &kp D &kp R &kp E &kp D &kp SPC>;
+};
+chord_en_bem: chord_en_bem {
+    label = "macro_chord_en_bem";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp E &kp M &kp E &kp M &kp B &kp E &kp R &kp SPC>;
+};
+chord_en_eps: chord_en_eps {
+    label = "macro_chord_en_eps";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp E &kp P &kp SPC>;
+};
+chord_en_aelry: chord_en_aelry {
+    label = "macro_chord_en_aelry";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp E &kp A &kp R &kp L &kp Y &kp SPC>;
+};
+chord_en_dhl: chord_en_dhl {
+    label = "macro_chord_en_dhl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp O &kp L &kp D &kp SPC>;
+};
+chord_en_estw: chord_en_estw {
+    label = "macro_chord_en_estw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp E &kp S &kp T &kp SPC>;
+};
+chord_en_dgn: chord_en_dgn {
+    label = "macro_chord_en_dgn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp R &kp O &kp U &kp N &kp D &kp SPC>;
+};
+chord_en_einr: chord_en_einr {
+    label = "macro_chord_en_einr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp I &kp N &kp T &kp E &kp R &kp E &kp S &kp T &kp SPC>;
+};
+chord_en_aceh: chord_en_aceh {
+    label = "macro_chord_en_aceh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp E &kp A &kp C &kp H &kp SPC>;
+};
+chord_en_afs: chord_en_afs {
+    label = "macro_chord_en_afs";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp A &kp S &kp T &kp SPC>;
+};
+chord_en_efiv: chord_en_efiv {
+    label = "macro_chord_en_efiv";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp I &kp V &kp E &kp SPC>;
+};
+chord_en_gin: chord_en_gin {
+    label = "macro_chord_en_gin";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp I &kp N &kp G &kp SPC>;
+};
+chord_en_eilns: chord_en_eilns {
+    label = "macro_chord_en_eilns";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp I &kp S &kp T &kp E &kp N &kp SPC>;
+};
+chord_en_is: chord_en_is {
+    label = "macro_chord_en_is";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp I &kp X &kp SPC>;
+};
+chord_en_abel: chord_en_abel {
+    label = "macro_chord_en_abel";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp B &kp L &kp E &kp SPC>;
+};
+chord_en_aelrt: chord_en_aelrt {
+    label = "macro_chord_en_aelrt";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp R &kp A &kp V &kp E &kp L &kp SPC>;
+};
+chord_en_els: chord_en_els {
+    label = "macro_chord_en_els";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp E &kp S &kp S &kp SPC>;
+};
+chord_en_gim: chord_en_gim {
+    label = "macro_chord_en_gim";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp O &kp R &kp N &kp I &kp N &kp G &kp SPC>;
+};
+chord_en_eilmp: chord_en_eilmp {
+    label = "macro_chord_en_eilmp";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp I &kp M &kp P &kp L &kp E &kp SPC>;
+};
+chord_en_aelrs: chord_en_aelrs {
+    label = "macro_chord_en_aelrs";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp E &kp V &kp E &kp R &kp A &kp L &kp SPC>;
+};
+chord_en_elo: chord_en_elo {
+    label = "macro_chord_en_elo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp V &kp O &kp W &kp E &kp L &kp SPC>;
+};
+chord_en_ado: chord_en_ado {
+    label = "macro_chord_en_ado";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp O &kp W &kp A &kp R &kp D &kp SPC>;
+};
+chord_en_arw: chord_en_arw {
+    label = "macro_chord_en_arw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp A &kp R &kp SPC>;
+};
+chord_en_aly: chord_en_aly {
+    label = "macro_chord_en_aly";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp A &kp Y &kp SPC>;
+};
+chord_en_agi: chord_en_agi {
+    label = "macro_chord_en_agi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp G &kp A &kp I &kp N &kp S &kp T &kp SPC>;
+};
+chord_en_aenp: chord_en_aenp {
+    label = "macro_chord_en_aenp";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp A &kp T &kp T &kp E &kp R &kp N &kp SPC>;
+};
+chord_en_los: chord_en_los {
+    label = "macro_chord_en_los";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp L &kp O &kp W &kp SPC>;
+};
+chord_en_cenr: chord_en_cenr {
+    label = "macro_chord_en_cenr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp E &kp N &kp T &kp E &kp R &kp SPC>;
+};
+chord_en_elov: chord_en_elov {
+    label = "macro_chord_en_elov";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp O &kp V &kp E &kp SPC>;
+};
+chord_en_enop: chord_en_enop {
+    label = "macro_chord_en_enop";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp E &kp R &kp S &kp O &kp N &kp SPC>;
+};
+chord_en_emno: chord_en_emno {
+    label = "macro_chord_en_emno";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp O &kp N &kp E &kp Y &kp SPC>;
+};
+chord_en_ersv: chord_en_ersv {
+    label = "macro_chord_en_ersv";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp E &kp R &kp V &kp E &kp SPC>;
+};
+chord_en_aepr: chord_en_aepr {
+    label = "macro_chord_en_aepr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp P &kp P &kp E &kp A &kp R &kp SPC>;
+};
+chord_en_ador: chord_en_ador {
+    label = "macro_chord_en_ador";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp O &kp A &kp D &kp SPC>;
+};
+chord_en_amp: chord_en_amp {
+    label = "macro_chord_en_amp";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp A &kp P &kp SPC>;
+};
+chord_en_ceins: chord_en_ceins {
+    label = "macro_chord_en_ceins";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp C &kp I &kp E &kp N &kp C &kp E &kp SPC>;
+};
+chord_en_elru: chord_en_elru {
+    label = "macro_chord_en_elru";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp U &kp L &kp E &kp SPC>;
+};
+chord_en_egn: chord_en_egn {
+    label = "macro_chord_en_egn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp O &kp V &kp E &kp R &kp N &kp SPC>;
+};
+chord_en_lp: chord_en_lp {
+    label = "macro_chord_en_lp";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp U &kp L &kp L &kp SPC>;
+};
+chord_en_cdl: chord_en_cdl {
+    label = "macro_chord_en_cdl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp O &kp L &kp D &kp SPC>;
+};
+chord_en_ceino: chord_en_ceino {
+    label = "macro_chord_en_ceino";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp O &kp T &kp I &kp C &kp E &kp SPC>;
+};
+chord_en_ceio: chord_en_ceio {
+    label = "macro_chord_en_ceio";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp V &kp O &kp I &kp C &kp E &kp SPC>;
+};
+chord_en_afl: chord_en_afl {
+    label = "macro_chord_en_afl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp A &kp L &kp L &kp SPC>;
+};
+chord_en_eopr: chord_en_eopr {
+    label = "macro_chord_en_eopr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp O &kp W &kp E &kp R &kp SPC>;
+};
+chord_en_not: chord_en_not {
+    label = "macro_chord_en_not";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp O &kp W &kp N &kp SPC>;
+};
+chord_en_efin: chord_en_efin {
+    label = "macro_chord_en_efin";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp I &kp N &kp E &kp SPC>;
+};
+chord_en_acei: chord_en_acei {
+    label = "macro_chord_en_acei";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp E &kp R &kp T &kp A &kp I &kp N &kp SPC>;
+};
+chord_en_fly: chord_en_fly {
+    label = "macro_chord_en_fly";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp L &kp Y &kp SPC>;
+};
+chord_en_int: chord_en_int {
+    label = "macro_chord_en_int";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp U &kp N &kp I &kp T &kp SPC>;
+};
+chord_en_adel: chord_en_adel {
+    label = "macro_chord_en_adel";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp E &kp A &kp D &kp SPC>;
+};
+chord_en_cr: chord_en_cr {
+    label = "macro_chord_en_cr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp R &kp Y &kp SPC>;
+};
+chord_en_adk: chord_en_adk {
+    label = "macro_chord_en_adk";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp A &kp R &kp K &kp SPC>;
+};
+chord_en_acehi: chord_en_acehi {
+    label = "macro_chord_en_acehi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp A &kp C &kp H &kp I &kp N &kp E &kp SPC>;
+};
+chord_en_enot: chord_en_enot {
+    label = "macro_chord_en_enot";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp O &kp T &kp E &kp SPC>;
+};
+chord_en_ait: chord_en_ait {
+    label = "macro_chord_en_ait";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp A &kp I &kp T &kp SPC>;
+};
+chord_en_alnp: chord_en_alnp {
+    label = "macro_chord_en_alnp";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp L &kp A &kp N &kp SPC>;
+};
+chord_en_efg: chord_en_efg {
+    label = "macro_chord_en_efg";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp I &kp G &kp U &kp R &kp E &kp SPC>;
+};
+chord_en_ars: chord_en_ars {
+    label = "macro_chord_en_ars";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp A &kp R &kp SPC>;
+};
+chord_en_box: chord_en_box {
+    label = "macro_chord_en_box";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp O &kp X &kp SPC>;
+};
+chord_en_nou: chord_en_nou {
+    label = "macro_chord_en_nou";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp O &kp U &kp N &kp SPC>;
+};
+chord_en_defil: chord_en_defil {
+    label = "macro_chord_en_defil";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp I &kp E &kp L &kp D &kp SPC>;
+};
+chord_en_erst: chord_en_erst {
+    label = "macro_chord_en_erst";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp R &kp E &kp E &kp T &kp SPC>;
+};
+chord_en_ceor: chord_en_ceor {
+    label = "macro_chord_en_ceor";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp O &kp R &kp R &kp E &kp C &kp T &kp SPC>;
+};
+chord_en_dnop: chord_en_dnop {
+    label = "macro_chord_en_dnop";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp O &kp U &kp N &kp D &kp SPC>;
+};
+chord_en_deno: chord_en_deno {
+    label = "macro_chord_en_deno";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp O &kp N &kp E &kp SPC>;
+};
+chord_en_abet: chord_en_abet {
+    label = "macro_chord_en_abet";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp E &kp A &kp U &kp T &kp Y &kp SPC>;
+};
+chord_en_dei: chord_en_dei {
+    label = "macro_chord_en_dei";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp R &kp I &kp V &kp E &kp SPC>;
+};
+chord_en_dos: chord_en_dos {
+    label = "macro_chord_en_dos";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp O &kp O &kp D &kp SPC>;
+};
+chord_en_aci: chord_en_aci {
+    label = "macro_chord_en_aci";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp O &kp N &kp T &kp A &kp I &kp N &kp SPC>;
+};
+chord_en_fn: chord_en_fn {
+    label = "macro_chord_en_fn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp R &kp O &kp N &kp T &kp SPC>;
+};
+chord_en_aceht: chord_en_aceht {
+    label = "macro_chord_en_aceht";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp E &kp A &kp C &kp H &kp SPC>;
+};
+chord_en_ekw: chord_en_ekw {
+    label = "macro_chord_en_ekw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp E &kp E &kp K &kp SPC>;
+};
+chord_en_afil: chord_en_afil {
+    label = "macro_chord_en_afil";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp I &kp N &kp A &kp L &kp SPC>;
+};
+chord_en_aegv: chord_en_aegv {
+    label = "macro_chord_en_aegv";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp A &kp V &kp E &kp SPC>;
+};
+chord_en_egnr: chord_en_egnr {
+    label = "macro_chord_en_egnr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp R &kp E &kp E &kp N &kp SPC>;
+};
+chord_en_cik: chord_en_cik {
+    label = "macro_chord_en_cik";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp Q &kp U &kp I &kp C &kp K &kp SPC>;
+};
+chord_en_del: chord_en_del {
+    label = "macro_chord_en_del";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp E &kp V &kp E &kp L &kp O &kp P &kp SPC>;
+};
+chord_en_elps: chord_en_elps {
+    label = "macro_chord_en_elps";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp L &kp E &kp E &kp P &kp SPC>;
+};
+chord_en_amr: chord_en_amr {
+    label = "macro_chord_en_amr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp A &kp R &kp M &kp SPC>;
+};
+chord_en_efr: chord_en_efr {
+    label = "macro_chord_en_efr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp R &kp E &kp E &kp SPC>;
+};
+chord_en_eim: chord_en_eim {
+    label = "macro_chord_en_eim";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp I &kp N &kp U &kp T &kp E &kp SPC>;
+};
+chord_en_gnor: chord_en_gnor {
+    label = "macro_chord_en_gnor";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp R &kp O &kp N &kp G &kp SPC>;
+};
+chord_en_aceil: chord_en_aceil {
+    label = "macro_chord_en_aceil";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp P &kp E &kp C &kp I &kp A &kp L &kp SPC>;
+};
+chord_en_dim: chord_en_dim {
+    label = "macro_chord_en_dim";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp I &kp N &kp D &kp SPC>;
+};
+chord_en_bde: chord_en_bde {
+    label = "macro_chord_en_bde";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp E &kp D &kp SPC>;
+};
+chord_en_acelr: chord_en_acelr {
+    label = "macro_chord_en_acelr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp L &kp E &kp A &kp R &kp SPC>;
+};
+chord_en_ailt: chord_en_ailt {
+    label = "macro_chord_en_ailt";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp A &kp I &kp L &kp SPC>;
+};
+chord_en_cdeo: chord_en_cdeo {
+    label = "macro_chord_en_cdeo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp R &kp O &kp D &kp U &kp C &kp E &kp SPC>;
+};
+chord_en_acf: chord_en_acf {
+    label = "macro_chord_en_acf";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp A &kp C &kp T &kp SPC>;
+};
+chord_en_chi: chord_en_chi {
+    label = "macro_chord_en_chi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp I &kp N &kp C &kp H &kp SPC>;
+};
+chord_en_lot: chord_en_lot {
+    label = "macro_chord_en_lot";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp O &kp T &kp SPC>;
+};
+chord_en_ghino: chord_en_ghino {
+    label = "macro_chord_en_ghino";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp N &kp O &kp T &kp H &kp I &kp N &kp G &kp SPC>;
+};
+chord_en_ceors: chord_en_ceors {
+    label = "macro_chord_en_ceors";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp O &kp U &kp R &kp S &kp E &kp SPC>;
+};
+chord_en_ast: chord_en_ast {
+    label = "macro_chord_en_ast";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp T &kp A &kp Y &kp SPC>;
+};
+chord_en_ehlw: chord_en_ehlw {
+    label = "macro_chord_en_ehlw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp H &kp E &kp E &kp L &kp SPC>;
+};
+chord_en_flu: chord_en_flu {
+    label = "macro_chord_en_flu";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp U &kp L &kp L &kp SPC>;
+};
+chord_en_cef: chord_en_cef {
+    label = "macro_chord_en_cef";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp O &kp R &kp C &kp E &kp SPC>;
+};
+chord_en_belu: chord_en_belu {
+    label = "macro_chord_en_belu";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp L &kp U &kp E &kp SPC>;
+};
+chord_en_bc: chord_en_bc {
+    label = "macro_chord_en_bc";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp O &kp B &kp J &kp E &kp C &kp T &kp SPC>;
+};
+chord_en_acefr: chord_en_acefr {
+    label = "macro_chord_en_acefr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp U &kp R &kp F &kp A &kp C &kp E &kp SPC>;
+};
+chord_en_dep: chord_en_dep {
+    label = "macro_chord_en_dep";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp E &kp E &kp P &kp SPC>;
+};
+chord_en_mn: chord_en_mn {
+    label = "macro_chord_en_mn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp O &kp O &kp N &kp SPC>;
+};
+chord_en_adil: chord_en_adil {
+    label = "macro_chord_en_adil";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp I &kp S &kp L &kp A &kp N &kp D &kp SPC>;
+};
+chord_en_fot: chord_en_fot {
+    label = "macro_chord_en_fot";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp O &kp O &kp T &kp SPC>;
+};
+chord_en_et: chord_en_et {
+    label = "macro_chord_en_et";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp Y &kp E &kp T &kp SPC>;
+};
+chord_en_bs: chord_en_bs {
+    label = "macro_chord_en_bs";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp U &kp S &kp Y &kp SPC>;
+};
+chord_en_cdeor: chord_en_cdeor {
+    label = "macro_chord_en_cdeor";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp E &kp C &kp O &kp R &kp D &kp SPC>;
+};
+chord_en_abo: chord_en_abo {
+    label = "macro_chord_en_abo";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp O &kp A &kp T &kp SPC>;
+};
+chord_en_cm: chord_en_cm {
+    label = "macro_chord_en_cm";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp O &kp M &kp M &kp O &kp N &kp SPC>;
+};
+chord_en_dgl: chord_en_dgl {
+    label = "macro_chord_en_dgl";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp O &kp L &kp D &kp SPC>;
+};
+chord_en_bei: chord_en_bei {
+    label = "macro_chord_en_bei";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp O &kp S &kp S &kp I &kp B &kp L &kp E &kp SPC>;
+};
+chord_en_aeln: chord_en_aeln {
+    label = "macro_chord_en_aeln";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp L &kp A &kp N &kp E &kp SPC>;
+};
+chord_en_dr: chord_en_dr {
+    label = "macro_chord_en_dr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp D &kp R &kp Y &kp SPC>;
+};
+chord_en_denor: chord_en_denor {
+    label = "macro_chord_en_denor";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp O &kp N &kp D &kp E &kp R &kp SPC>;
+};
+chord_en_agh: chord_en_agh {
+    label = "macro_chord_en_agh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp A &kp U &kp G &kp H &kp SPC>;
+};
+chord_en_adhn: chord_en_adhn {
+    label = "macro_chord_en_adhn";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp T &kp H &kp O &kp U &kp S &kp A &kp N &kp D &kp SPC>;
+};
+chord_en_ago: chord_en_ago {
+    label = "macro_chord_en_ago";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp G &kp O &kp SPC>;
+};
+chord_en_anr: chord_en_anr {
+    label = "macro_chord_en_anr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp R &kp A &kp N &kp SPC>;
+};
+chord_en_ceh: chord_en_ceh {
+    label = "macro_chord_en_ceh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp C &kp H &kp E &kp C &kp K &kp SPC>;
+};
+chord_en_aegm: chord_en_aegm {
+    label = "macro_chord_en_aegm";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp G &kp A &kp M &kp E &kp SPC>;
+};
+chord_en_aehp: chord_en_aehp {
+    label = "macro_chord_en_aehp";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp H &kp A &kp P &kp E &kp SPC>;
+};
+chord_en_esy: chord_en_esy {
+    label = "macro_chord_en_esy";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp Y &kp E &kp S &kp SPC>;
+};
+chord_en_hot: chord_en_hot {
+    label = "macro_chord_en_hot";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp O &kp T &kp SPC>;
+};
+chord_en_im: chord_en_im {
+    label = "macro_chord_en_im";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp M &kp I &kp S &kp S &kp SPC>;
+};
+chord_en_bgh: chord_en_bgh {
+    label = "macro_chord_en_bgh";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp R &kp O &kp U &kp G &kp H &kp T &kp SPC>;
+};
+chord_en_aeht: chord_en_aeht {
+    label = "macro_chord_en_aeht";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp H &kp E &kp A &kp T &kp SPC>;
+};
+chord_en_nosw: chord_en_nosw {
+    label = "macro_chord_en_nosw";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp N &kp O &kp W &kp SPC>;
+};
+chord_en_bgi: chord_en_bgi {
+    label = "macro_chord_en_bgi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp B &kp R &kp I &kp N &kp G &kp SPC>;
+};
+chord_en_ist: chord_en_ist {
+    label = "macro_chord_en_ist";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp S &kp I &kp T &kp SPC>;
+};
+chord_en_aehpr: chord_en_aehpr {
+    label = "macro_chord_en_aehpr";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp P &kp E &kp R &kp H &kp A &kp P &kp S &kp SPC>;
+};
+chord_en_fil: chord_en_fil {
+    label = "macro_chord_en_fil";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp F &kp I &kp L &kp L &kp SPC>;
+};
+chord_en_eghi: chord_en_eghi {
+    label = "macro_chord_en_eghi";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp W &kp E &kp I &kp G &kp H &kp T &kp SPC>;
+};
+chord_en_aegln: chord_en_aegln {
+    label = "macro_chord_en_aegln";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp L &kp A &kp N &kp G &kp U &kp A &kp G &kp E &kp SPC>;
+};
+chord_en_agm: chord_en_agm {
+    label = "macro_chord_en_agm";
+    compatible = "zmk,behavior-macro";
+    #binding-cells = <0>;
+
+    wait-ms = <MACRO_WAIT>;
+    tap-ms = <MACRO_TAP>;
+    bindings = <&kp A &kp M &kp O &kp N &kp G &kp SPC>;
+};

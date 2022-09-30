@@ -1,0 +1,2250 @@
+combo_chord_en_e {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E>;
+    bindings = <&chord_en_e>;
+};
+combo_chord_en_a {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A>;
+    bindings = <&chord_en_a>;
+};
+combo_chord_en_o {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_O>;
+    bindings = <&chord_en_o>;
+};
+combo_chord_en_ah {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_H>;
+    bindings = <&chord_en_ah>;
+};
+combo_chord_en_as {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_S>;
+    bindings = <&chord_en_as>;
+};
+combo_chord_en_f {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F>;
+    bindings = <&chord_en_f>;
+};
+combo_chord_en_ae {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E>;
+    bindings = <&chord_en_ae>;
+};
+combo_chord_en_h {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H>;
+    bindings = <&chord_en_h>;
+};
+combo_chord_en_hi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_I>;
+    bindings = <&chord_en_hi>;
+};
+combo_chord_en_eh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H>;
+    bindings = <&chord_en_eh>;
+};
+combo_chord_en_en {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_N>;
+    bindings = <&chord_en_en>;
+};
+combo_chord_en_aeh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_H>;
+    bindings = <&chord_en_aeh>;
+};
+combo_chord_en_his {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_I P_S>;
+    bindings = <&chord_en_his>;
+};
+combo_chord_en_fm {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_M>;
+    bindings = <&chord_en_fm>;
+};
+combo_chord_en_ad {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D>;
+    bindings = <&chord_en_ad>;
+};
+combo_chord_en_ho {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_O>;
+    bindings = <&chord_en_ho>;
+};
+combo_chord_en_b {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B>;
+    bindings = <&chord_en_b>;
+};
+combo_chord_en_em {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_M>;
+    bindings = <&chord_en_em>;
+};
+combo_chord_en_aht {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_H P_T>;
+    bindings = <&chord_en_aht>;
+};
+combo_chord_en_ehr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_R>;
+    bindings = <&chord_en_ehr>;
+};
+combo_chord_en_ac {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C>;
+    bindings = <&chord_en_ac>;
+};
+combo_chord_en_ot {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_O P_T>;
+    bindings = <&chord_en_ot>;
+};
+combo_chord_en_eho {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_O>;
+    bindings = <&chord_en_eho>;
+};
+combo_chord_en_er {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_R>;
+    bindings = <&chord_en_er>;
+};
+combo_chord_en_al {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_L>;
+    bindings = <&chord_en_al>;
+};
+combo_chord_en_or {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_O P_R>;
+    bindings = <&chord_en_or>;
+};
+combo_chord_en_ehn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_N>;
+    bindings = <&chord_en_ehn>;
+};
+combo_chord_en_es {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_S>;
+    bindings = <&chord_en_es>;
+};
+combo_chord_en_d {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D>;
+    bindings = <&chord_en_d>;
+};
+combo_chord_en_how {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_O P_W>;
+    bindings = <&chord_en_how>;
+};
+combo_chord_en_adi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_I>;
+    bindings = <&chord_en_adi>;
+};
+combo_chord_en_ace {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E>;
+    bindings = <&chord_en_ace>;
+};
+combo_chord_en_ehs {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_S>;
+    bindings = <&chord_en_ehs>;
+};
+combo_chord_en_c {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C>;
+    bindings = <&chord_en_c>;
+};
+combo_chord_en_ehi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_I>;
+    bindings = <&chord_en_ehi>;
+};
+combo_chord_en_ei {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I>;
+    bindings = <&chord_en_ei>;
+};
+combo_chord_en_i {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_I>;
+    bindings = <&chord_en_i>;
+};
+combo_chord_en_aw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_W>;
+    bindings = <&chord_en_aw>;
+};
+combo_chord_en_ab {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_B>;
+    bindings = <&chord_en_ab>;
+};
+combo_chord_en_am {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_M>;
+    bindings = <&chord_en_am>;
+};
+combo_chord_en_ehnt {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_N P_T>;
+    bindings = <&chord_en_ehnt>;
+};
+combo_chord_en_ehm {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_M>;
+    bindings = <&chord_en_ehm>;
+};
+combo_chord_en_dl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_L>;
+    bindings = <&chord_en_dl>;
+};
+combo_chord_en_eir {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_R>;
+    bindings = <&chord_en_eir>;
+};
+combo_chord_en_eik {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_K>;
+    bindings = <&chord_en_eik>;
+};
+combo_chord_en_ehst {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_S P_T>;
+    bindings = <&chord_en_ehst>;
+};
+combo_chord_en_g {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G>;
+    bindings = <&chord_en_g>;
+};
+combo_chord_en_aek {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_K>;
+    bindings = <&chord_en_aek>;
+};
+combo_chord_en_gh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_H>;
+    bindings = <&chord_en_gh>;
+};
+combo_chord_en_him {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_I P_M>;
+    bindings = <&chord_en_him>;
+};
+combo_chord_en_otw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_O P_T P_W>;
+    bindings = <&chord_en_otw>;
+};
+combo_chord_en_ahs {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_H P_S>;
+    bindings = <&chord_en_ahs>;
+};
+combo_chord_en_k {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_K>;
+    bindings = <&chord_en_k>;
+};
+combo_chord_en_emo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_M P_O>;
+    bindings = <&chord_en_emo>;
+};
+combo_chord_en_ady {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_Y>;
+    bindings = <&chord_en_ady>;
+};
+combo_chord_en_cd {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_D>;
+    bindings = <&chord_en_cd>;
+};
+combo_chord_en_ce {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E>;
+    bindings = <&chord_en_ce>;
+};
+combo_chord_en_di {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_I>;
+    bindings = <&chord_en_di>;
+};
+combo_chord_en_dn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_N>;
+    bindings = <&chord_en_dn>;
+};
+combo_chord_en_m {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_M>;
+    bindings = <&chord_en_m>;
+};
+combo_chord_en_be {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_E>;
+    bindings = <&chord_en_be>;
+};
+combo_chord_en_eo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_O>;
+    bindings = <&chord_en_eo>;
+};
+combo_chord_en_kn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_K P_N>;
+    bindings = <&chord_en_kn>;
+};
+combo_chord_en_aer {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_R>;
+    bindings = <&chord_en_aer>;
+};
+combo_chord_en_ahn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_H P_N>;
+    bindings = <&chord_en_ahn>;
+};
+combo_chord_en_acl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_L>;
+    bindings = <&chord_en_acl>;
+};
+combo_chord_en_fi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_I>;
+    bindings = <&chord_en_fi>;
+};
+combo_chord_en_el {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_L>;
+    bindings = <&chord_en_el>;
+};
+combo_chord_en_amy {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_M P_Y>;
+    bindings = <&chord_en_amy>;
+};
+combo_chord_en_dno {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_N P_O>;
+    bindings = <&chord_en_dno>;
+};
+combo_chord_en_de {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E>;
+    bindings = <&chord_en_de>;
+};
+combo_chord_en_ben {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_E P_N>;
+    bindings = <&chord_en_ben>;
+};
+combo_chord_en_n {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_N>;
+    bindings = <&chord_en_n>;
+};
+combo_chord_en_df {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_F>;
+    bindings = <&chord_en_df>;
+};
+combo_chord_en_an {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_N>;
+    bindings = <&chord_en_an>;
+};
+combo_chord_en_enw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_N P_W>;
+    bindings = <&chord_en_enw>;
+};
+combo_chord_en_ko {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_K P_O>;
+    bindings = <&chord_en_ko>;
+};
+combo_chord_en_ap {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_P>;
+    bindings = <&chord_en_ap>;
+};
+combo_chord_en_aekt {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_K P_T>;
+    bindings = <&chord_en_aekt>;
+};
+combo_chord_en_eg {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_G>;
+    bindings = <&chord_en_eg>;
+};
+combo_chord_en_acel {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_L>;
+    bindings = <&chord_en_acel>;
+};
+combo_chord_en_ade {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_E>;
+    bindings = <&chord_en_ade>;
+};
+combo_chord_en_eil {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_L>;
+    bindings = <&chord_en_eil>;
+};
+combo_chord_en_ehrw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_R P_W>;
+    bindings = <&chord_en_ehrw>;
+};
+combo_chord_en_aef {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_F>;
+    bindings = <&chord_en_aef>;
+};
+combo_chord_en_abc {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_B P_C>;
+    bindings = <&chord_en_abc>;
+};
+combo_chord_en_eilt {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_L P_T>;
+    bindings = <&chord_en_eilt>;
+};
+combo_chord_en_l {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_L>;
+    bindings = <&chord_en_l>;
+};
+combo_chord_en_dnor {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_N P_O P_R>;
+    bindings = <&chord_en_dnor>;
+};
+combo_chord_en_amn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_M P_N>;
+    bindings = <&chord_en_amn>;
+};
+combo_chord_en_aery {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_R P_Y>;
+    bindings = <&chord_en_aery>;
+};
+combo_chord_en_acem {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_M>;
+    bindings = <&chord_en_acem>;
+};
+combo_chord_en_hos {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_O P_S>;
+    bindings = <&chord_en_hos>;
+};
+combo_chord_en_erv {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_R P_V>;
+    bindings = <&chord_en_erv>;
+};
+combo_chord_en_dg {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_G>;
+    bindings = <&chord_en_dg>;
+};
+combo_chord_en_egi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_G P_I>;
+    bindings = <&chord_en_egi>;
+};
+combo_chord_en_oru {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_O P_R P_U>;
+    bindings = <&chord_en_oru>;
+};
+combo_chord_en_den {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_N>;
+    bindings = <&chord_en_den>;
+};
+combo_chord_en_aem {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_M>;
+    bindings = <&chord_en_aem>;
+};
+combo_chord_en_ervy {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_R P_V P_Y>;
+    bindings = <&chord_en_ervy>;
+};
+combo_chord_en_gho {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_H P_O>;
+    bindings = <&chord_en_gho>;
+};
+combo_chord_en_j {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_J>;
+    bindings = <&chord_en_j>;
+};
+combo_chord_en_fmo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_M P_O>;
+    bindings = <&chord_en_fmo>;
+};
+combo_chord_en_ch {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_H>;
+    bindings = <&chord_en_ch>;
+};
+combo_chord_en_aeg {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_G>;
+    bindings = <&chord_en_aeg>;
+};
+combo_chord_en_hik {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_I P_K>;
+    bindings = <&chord_en_hik>;
+};
+combo_chord_en_asy {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_S P_Y>;
+    bindings = <&chord_en_asy>;
+};
+combo_chord_en_ehl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_L>;
+    bindings = <&chord_en_ehl>;
+};
+combo_chord_en_lo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_L P_O>;
+    bindings = <&chord_en_lo>;
+};
+combo_chord_en_eiln {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_L P_N>;
+    bindings = <&chord_en_eiln>;
+};
+combo_chord_en_bef {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_E P_F>;
+    bindings = <&chord_en_bef>;
+};
+combo_chord_en_nr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_N P_R>;
+    bindings = <&chord_en_nr>;
+};
+combo_chord_en_aces {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_S>;
+    bindings = <&chord_en_aces>;
+};
+combo_chord_en_aems {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_M P_S>;
+    bindings = <&chord_en_aems>;
+};
+combo_chord_en_aemn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_M P_N>;
+    bindings = <&chord_en_aemn>;
+};
+combo_chord_en_def {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_F>;
+    bindings = <&chord_en_def>;
+};
+combo_chord_en_emov {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_M P_O P_V>;
+    bindings = <&chord_en_emov>;
+};
+combo_chord_en_ghi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_H P_I>;
+    bindings = <&chord_en_ghi>;
+};
+combo_chord_en_bo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_O>;
+    bindings = <&chord_en_bo>;
+};
+combo_chord_en_dlo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_L P_O>;
+    bindings = <&chord_en_dlo>;
+};
+combo_chord_en_deo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_O>;
+    bindings = <&chord_en_deo>;
+};
+combo_chord_en_elt {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_L P_T>;
+    bindings = <&chord_en_elt>;
+};
+combo_chord_en_cen {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_N>;
+    bindings = <&chord_en_cen>;
+};
+combo_chord_en_est {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_S P_T>;
+    bindings = <&chord_en_est>;
+};
+combo_chord_en_ehrt {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_R P_T>;
+    bindings = <&chord_en_ehrt>;
+};
+combo_chord_en_ant {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_N P_T>;
+    bindings = <&chord_en_ant>;
+};
+combo_chord_en_ai {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_I>;
+    bindings = <&chord_en_ai>;
+};
+combo_chord_en_elw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_L P_W>;
+    bindings = <&chord_en_elw>;
+};
+combo_chord_en_alo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_L P_O>;
+    bindings = <&chord_en_alo>;
+};
+combo_chord_en_alp {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_L P_P>;
+    bindings = <&chord_en_alp>;
+};
+combo_chord_en_alm {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_L P_M>;
+    bindings = <&chord_en_alm>;
+};
+combo_chord_en_p {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_P>;
+    bindings = <&chord_en_p>;
+};
+combo_chord_en_ehmo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_M P_O>;
+    bindings = <&chord_en_ehmo>;
+};
+combo_chord_en_ader {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_E P_R>;
+    bindings = <&chord_en_ader>;
+};
+combo_chord_en_adh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_H>;
+    bindings = <&chord_en_adh>;
+};
+combo_chord_en_op {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_O P_P>;
+    bindings = <&chord_en_op>;
+};
+combo_chord_en_aegl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_G P_L>;
+    bindings = <&chord_en_aegl>;
+};
+combo_chord_en_elp {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_L P_P>;
+    bindings = <&chord_en_elp>;
+};
+combo_chord_en_env {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_N P_V>;
+    bindings = <&chord_en_env>;
+};
+combo_chord_en_adl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_L>;
+    bindings = <&chord_en_adl>;
+};
+combo_chord_en_ms {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_M P_S>;
+    bindings = <&chord_en_ms>;
+};
+combo_chord_en_bg {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_G>;
+    bindings = <&chord_en_bg>;
+};
+combo_chord_en_chs {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_H P_S>;
+    bindings = <&chord_en_chs>;
+};
+combo_chord_en_fl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_L>;
+    bindings = <&chord_en_fl>;
+};
+combo_chord_en_act {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_T>;
+    bindings = <&chord_en_act>;
+};
+combo_chord_en_hw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_W>;
+    bindings = <&chord_en_hw>;
+};
+combo_chord_en_ak {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_K>;
+    bindings = <&chord_en_ak>;
+};
+combo_chord_en_emn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_M P_N>;
+    bindings = <&chord_en_emn>;
+};
+combo_chord_en_aceg {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_G>;
+    bindings = <&chord_en_aceg>;
+};
+combo_chord_en_ent {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_N P_T>;
+    bindings = <&chord_en_ent>;
+};
+combo_chord_en_ghil {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_H P_I P_L>;
+    bindings = <&chord_en_ghil>;
+};
+combo_chord_en_dik {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_I P_K>;
+    bindings = <&chord_en_dik>;
+};
+combo_chord_en_fo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_O>;
+    bindings = <&chord_en_fo>;
+};
+combo_chord_en_ehos {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_O P_S>;
+    bindings = <&chord_en_ehos>;
+};
+combo_chord_en_cei {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_I>;
+    bindings = <&chord_en_cei>;
+};
+combo_chord_en_r {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_R>;
+    bindings = <&chord_en_r>;
+};
+combo_chord_en_ag {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_G>;
+    bindings = <&chord_en_ag>;
+};
+combo_chord_en_ail {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_I P_L>;
+    bindings = <&chord_en_ail>;
+};
+combo_chord_en_in {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_I P_N>;
+    bindings = <&chord_en_in>;
+};
+combo_chord_en_ehmor {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_M P_O P_R>;
+    bindings = <&chord_en_ehmor>;
+};
+combo_chord_en_dlor {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_L P_O P_R>;
+    bindings = <&chord_en_dlor>;
+};
+combo_chord_en_aen {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_N>;
+    bindings = <&chord_en_aen>;
+};
+combo_chord_en_bd {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_D>;
+    bindings = <&chord_en_bd>;
+};
+combo_chord_en_ef {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_F>;
+    bindings = <&chord_en_ef>;
+};
+combo_chord_en_aehr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_H P_R>;
+    bindings = <&chord_en_aehr>;
+};
+combo_chord_en_aefh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_F P_H>;
+    bindings = <&chord_en_aefh>;
+};
+combo_chord_en_adeh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_E P_H>;
+    bindings = <&chord_en_adeh>;
+};
+combo_chord_en_adn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_N>;
+    bindings = <&chord_en_adn>;
+};
+combo_chord_en_no {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_N P_O>;
+    bindings = <&chord_en_no>;
+};
+combo_chord_en_aegp {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_G P_P>;
+    bindings = <&chord_en_aegp>;
+};
+combo_chord_en_dh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_H>;
+    bindings = <&chord_en_dh>;
+};
+combo_chord_en_cn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_N>;
+    bindings = <&chord_en_cn>;
+};
+combo_chord_en_dfn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_F P_N>;
+    bindings = <&chord_en_dfn>;
+};
+combo_chord_en_aenr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_N P_R>;
+    bindings = <&chord_en_aenr>;
+};
+combo_chord_en_chl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_H P_L>;
+    bindings = <&chord_en_chl>;
+};
+combo_chord_en_go {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_O>;
+    bindings = <&chord_en_go>;
+};
+combo_chord_en_ds {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_S>;
+    bindings = <&chord_en_ds>;
+};
+combo_chord_en_il {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_I P_L>;
+    bindings = <&chord_en_il>;
+};
+combo_chord_en_ael {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_L>;
+    bindings = <&chord_en_ael>;
+};
+combo_chord_en_aln {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_L P_N>;
+    bindings = <&chord_en_aln>;
+};
+combo_chord_en_ceo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_O>;
+    bindings = <&chord_en_ceo>;
+};
+combo_chord_en_dfo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_F P_O>;
+    bindings = <&chord_en_dfo>;
+};
+combo_chord_en_ns {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_N P_S>;
+    bindings = <&chord_en_ns>;
+};
+combo_chord_en_for {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_O P_R>;
+    bindings = <&chord_en_for>;
+};
+combo_chord_en_ghot {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_H P_O P_T>;
+    bindings = <&chord_en_ghot>;
+};
+combo_chord_en_ek {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_K>;
+    bindings = <&chord_en_ek>;
+};
+combo_chord_en_ey {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_Y>;
+    bindings = <&chord_en_ey>;
+};
+combo_chord_en_enr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_N P_R>;
+    bindings = <&chord_en_enr>;
+};
+combo_chord_en_als {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_L P_S>;
+    bindings = <&chord_en_als>;
+};
+combo_chord_en_do {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_O>;
+    bindings = <&chord_en_do>;
+};
+combo_chord_en_bent {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_E P_N P_T>;
+    bindings = <&chord_en_bent>;
+};
+combo_chord_en_ci {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_I>;
+    bindings = <&chord_en_ci>;
+};
+combo_chord_en_ert {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_R P_T>;
+    bindings = <&chord_en_ert>;
+};
+combo_chord_en_co {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_O>;
+    bindings = <&chord_en_co>;
+};
+combo_chord_en_cein {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_I P_N>;
+    bindings = <&chord_en_cein>;
+};
+combo_chord_en_adhr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_H P_R>;
+    bindings = <&chord_en_adhr>;
+};
+combo_chord_en_ar {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_R>;
+    bindings = <&chord_en_ar>;
+};
+combo_chord_en_ghim {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_H P_I P_M>;
+    bindings = <&chord_en_ghim>;
+};
+combo_chord_en_ors {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_O P_R P_S>;
+    bindings = <&chord_en_ors>;
+};
+combo_chord_en_asw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_S P_W>;
+    bindings = <&chord_en_asw>;
+};
+combo_chord_en_af {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_F>;
+    bindings = <&chord_en_af>;
+};
+combo_chord_en_aes {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_S>;
+    bindings = <&chord_en_aes>;
+};
+combo_chord_en_adr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_R>;
+    bindings = <&chord_en_adr>;
+};
+combo_chord_en_efl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_F P_L>;
+    bindings = <&chord_en_efl>;
+};
+combo_chord_en_aelt {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_L P_T>;
+    bindings = <&chord_en_aelt>;
+};
+combo_chord_en_nru {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_N P_R P_U>;
+    bindings = <&chord_en_nru>;
+};
+combo_chord_en_SQT {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_SQT>;
+    bindings = <&chord_en_SQT>;
+};
+combo_chord_en_ehil {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_I P_L>;
+    bindings = <&chord_en_ehil>;
+};
+combo_chord_en_ep {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_P>;
+    bindings = <&chord_en_ep>;
+};
+combo_chord_en_cel {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_L>;
+    bindings = <&chord_en_cel>;
+};
+combo_chord_en_ghin {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_H P_I P_N>;
+    bindings = <&chord_en_ghin>;
+};
+combo_chord_en_aelr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_L P_R>;
+    bindings = <&chord_en_aelr>;
+};
+combo_chord_en_efi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_F P_I>;
+    bindings = <&chord_en_efi>;
+};
+combo_chord_en_efw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_F P_W>;
+    bindings = <&chord_en_efw>;
+};
+combo_chord_en_ops {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_O P_P P_S>;
+    bindings = <&chord_en_ops>;
+};
+combo_chord_en_eno {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_N P_O>;
+    bindings = <&chord_en_eno>;
+};
+combo_chord_en_ems {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_M P_S>;
+    bindings = <&chord_en_ems>;
+};
+combo_chord_en_egh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_G P_H>;
+    bindings = <&chord_en_egh>;
+};
+combo_chord_en_entx {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_N P_T P_X>;
+    bindings = <&chord_en_entx>;
+};
+combo_chord_en_ehit {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_I P_T>;
+    bindings = <&chord_en_ehit>;
+};
+combo_chord_en_cde {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_D P_E>;
+    bindings = <&chord_en_cde>;
+};
+combo_chord_en_beg {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_E P_G>;
+    bindings = <&chord_en_beg>;
+};
+combo_chord_en_got {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_O P_T>;
+    bindings = <&chord_en_got>;
+};
+combo_chord_en_akl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_K P_L>;
+    bindings = <&chord_en_akl>;
+};
+combo_chord_en_aelm {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_L P_M>;
+    bindings = <&chord_en_aelm>;
+};
+combo_chord_en_aep {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_P>;
+    bindings = <&chord_en_aep>;
+};
+combo_chord_en_efn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_F P_N>;
+    bindings = <&chord_en_efn>;
+};
+combo_chord_en_alsw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_L P_S P_W>;
+    bindings = <&chord_en_alsw>;
+};
+combo_chord_en_cim {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_I P_M>;
+    bindings = <&chord_en_cim>;
+};
+combo_chord_en_ehost {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_O P_S P_T>;
+    bindings = <&chord_en_ehost>;
+};
+combo_chord_en_bh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_H>;
+    bindings = <&chord_en_bh>;
+};
+combo_chord_en_akm {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_K P_M>;
+    bindings = <&chord_en_akm>;
+};
+combo_chord_en_bk {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_K>;
+    bindings = <&chord_en_bk>;
+};
+combo_chord_en_elr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_L P_R>;
+    bindings = <&chord_en_elr>;
+};
+combo_chord_en_iln {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_I P_L P_N>;
+    bindings = <&chord_en_iln>;
+};
+combo_chord_en_eilm {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_L P_M>;
+    bindings = <&chord_en_eilm>;
+};
+combo_chord_en_eirv {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_R P_V>;
+    bindings = <&chord_en_eirv>;
+};
+combo_chord_en_acr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_R>;
+    bindings = <&chord_en_acr>;
+};
+combo_chord_en_eft {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_F P_T>;
+    bindings = <&chord_en_eft>;
+};
+combo_chord_en_acer {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_R>;
+    bindings = <&chord_en_acer>;
+};
+combo_chord_en_cden {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_D P_E P_N>;
+    bindings = <&chord_en_cden>;
+};
+combo_chord_en_gop {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_O P_P>;
+    bindings = <&chord_en_gop>;
+};
+combo_chord_en_acry {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_R P_Y>;
+    bindings = <&chord_en_acry>;
+};
+combo_chord_en_kot {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_K P_O P_T>;
+    bindings = <&chord_en_kot>;
+};
+combo_chord_en_ain {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_I P_N>;
+    bindings = <&chord_en_ain>;
+};
+combo_chord_en_aet {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_T>;
+    bindings = <&chord_en_aet>;
+};
+combo_chord_en_mo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_M P_O>;
+    bindings = <&chord_en_mo>;
+};
+combo_chord_en_defi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_F P_I>;
+    bindings = <&chord_en_defi>;
+};
+combo_chord_en_abe {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_B P_E>;
+    bindings = <&chord_en_abe>;
+};
+combo_chord_en_adei {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_E P_I>;
+    bindings = <&chord_en_adei>;
+};
+combo_chord_en_fh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_H>;
+    bindings = <&chord_en_fh>;
+};
+combo_chord_en_aim {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_I P_M>;
+    bindings = <&chord_en_aim>;
+};
+combo_chord_en_hn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_N>;
+    bindings = <&chord_en_hn>;
+};
+combo_chord_en_ceno {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_N P_O>;
+    bindings = <&chord_en_ceno>;
+};
+combo_chord_en_abes {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_B P_E P_S>;
+    bindings = <&chord_en_abes>;
+};
+combo_chord_en_ehor {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_O P_R>;
+    bindings = <&chord_en_ehor>;
+};
+combo_chord_en_ct {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_T>;
+    bindings = <&chord_en_ct>;
+};
+combo_chord_en_ers {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_R P_S>;
+    bindings = <&chord_en_ers>;
+};
+combo_chord_en_ach {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_H>;
+    bindings = <&chord_en_ach>;
+};
+combo_chord_en_cl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_L>;
+    bindings = <&chord_en_cl>;
+};
+combo_chord_en_acef {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_F>;
+    bindings = <&chord_en_acef>;
+};
+combo_chord_en_dow {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_O P_W>;
+    bindings = <&chord_en_dow>;
+};
+combo_chord_en_aimn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_I P_M P_N>;
+    bindings = <&chord_en_aimn>;
+};
+combo_chord_en_eghn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_G P_H P_N>;
+    bindings = <&chord_en_eghn>;
+};
+combo_chord_en_ailn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_I P_L P_N>;
+    bindings = <&chord_en_ailn>;
+};
+combo_chord_en_gi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_I>;
+    bindings = <&chord_en_gi>;
+};
+combo_chord_en_alsu {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_L P_S P_U>;
+    bindings = <&chord_en_alsu>;
+};
+combo_chord_en_gn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_N>;
+    bindings = <&chord_en_gn>;
+};
+combo_chord_en_adery {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_E P_R P_Y>;
+    bindings = <&chord_en_adery>;
+};
+combo_chord_en_abeo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_B P_E P_O>;
+    bindings = <&chord_en_abeo>;
+};
+combo_chord_en_der {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_R>;
+    bindings = <&chord_en_der>;
+};
+combo_chord_en_ils {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_I P_L P_S>;
+    bindings = <&chord_en_ils>;
+};
+combo_chord_en_ghotu {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_H P_O P_T P_U>;
+    bindings = <&chord_en_ghotu>;
+};
+combo_chord_en_aklt {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_K P_L P_T>;
+    bindings = <&chord_en_aklt>;
+};
+combo_chord_en_bdi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_D P_I>;
+    bindings = <&chord_en_bdi>;
+};
+combo_chord_en_nos {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_N P_O P_S>;
+    bindings = <&chord_en_nos>;
+};
+combo_chord_en_bdo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_D P_O>;
+    bindings = <&chord_en_bdo>;
+};
+combo_chord_en_dgo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_G P_O>;
+    bindings = <&chord_en_dgo>;
+};
+combo_chord_en_afi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_F P_I>;
+    bindings = <&chord_en_afi>;
+};
+combo_chord_en_cdei {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_D P_E P_I>;
+    bindings = <&chord_en_cdei>;
+};
+combo_chord_en_eop {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_O P_P>;
+    bindings = <&chord_en_eop>;
+};
+combo_chord_en_aelv {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_L P_V>;
+    bindings = <&chord_en_aelv>;
+};
+combo_chord_en_gno {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_N P_O>;
+    bindings = <&chord_en_gno>;
+};
+combo_chord_en_aemr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_M P_R>;
+    bindings = <&chord_en_aemr>;
+};
+combo_chord_en_aest {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_S P_T>;
+    bindings = <&chord_en_aest>;
+};
+combo_chord_en_cdo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_D P_O>;
+    bindings = <&chord_en_cdo>;
+};
+combo_chord_en_abck {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_B P_C P_K>;
+    bindings = <&chord_en_abck>;
+};
+combo_chord_en_hor {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_O P_R>;
+    bindings = <&chord_en_hor>;
+};
+combo_chord_en_aelmn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_L P_M P_N>;
+    bindings = <&chord_en_aelmn>;
+};
+combo_chord_en_acls {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_L P_S>;
+    bindings = <&chord_en_acls>;
+};
+combo_chord_en_din {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_I P_N>;
+    bindings = <&chord_en_din>;
+};
+combo_chord_en_ein {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_N>;
+    bindings = <&chord_en_ein>;
+};
+combo_chord_en_aehn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_H P_N>;
+    bindings = <&chord_en_aehn>;
+};
+combo_chord_en_celm {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_L P_M>;
+    bindings = <&chord_en_celm>;
+};
+combo_chord_en_hip {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_I P_P>;
+    bindings = <&chord_en_hip>;
+};
+combo_chord_en_afh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_F P_H>;
+    bindings = <&chord_en_afh>;
+};
+combo_chord_en_ck {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_K>;
+    bindings = <&chord_en_ck>;
+};
+combo_chord_en_deor {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_O P_R>;
+    bindings = <&chord_en_deor>;
+};
+combo_chord_en_efir {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_F P_I P_R>;
+    bindings = <&chord_en_efir>;
+};
+combo_chord_en_host {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_O P_S P_T>;
+    bindings = <&chord_en_host>;
+};
+combo_chord_en_bel {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_E P_L>;
+    bindings = <&chord_en_bel>;
+};
+combo_chord_en_ceip {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_I P_P>;
+    bindings = <&chord_en_ceip>;
+};
+combo_chord_en_dlot {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_L P_O P_T>;
+    bindings = <&chord_en_dlot>;
+};
+combo_chord_en_ekn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_K P_N>;
+    bindings = <&chord_en_ekn>;
+};
+combo_chord_en_aps {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_P P_S>;
+    bindings = <&chord_en_aps>;
+};
+combo_chord_en_afm {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_F P_M>;
+    bindings = <&chord_en_afm>;
+};
+combo_chord_en_opt {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_O P_P P_T>;
+    bindings = <&chord_en_opt>;
+};
+combo_chord_en_ehlo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_L P_O>;
+    bindings = <&chord_en_ehlo>;
+};
+combo_chord_en_gik {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_I P_K>;
+    bindings = <&chord_en_gik>;
+};
+combo_chord_en_eis {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_S>;
+    bindings = <&chord_en_eis>;
+};
+combo_chord_en_adehr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_E P_H P_R>;
+    bindings = <&chord_en_adehr>;
+};
+combo_chord_en_bes {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_E P_S>;
+    bindings = <&chord_en_bes>;
+};
+combo_chord_en_horu {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_O P_R P_U>;
+    bindings = <&chord_en_horu>;
+};
+combo_chord_en_ber {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_E P_R>;
+    bindings = <&chord_en_ber>;
+};
+combo_chord_en_ertu {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_R P_T P_U>;
+    bindings = <&chord_en_ertu>;
+};
+combo_chord_en_dgi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_G P_I>;
+    bindings = <&chord_en_dgi>;
+};
+combo_chord_en_deh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_H>;
+    bindings = <&chord_en_deh>;
+};
+combo_chord_en_bem {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_E P_M>;
+    bindings = <&chord_en_bem>;
+};
+combo_chord_en_eps {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_P P_S>;
+    bindings = <&chord_en_eps>;
+};
+combo_chord_en_aelry {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_L P_R P_Y>;
+    bindings = <&chord_en_aelry>;
+};
+combo_chord_en_dhl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_H P_L>;
+    bindings = <&chord_en_dhl>;
+};
+combo_chord_en_estw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_S P_T P_W>;
+    bindings = <&chord_en_estw>;
+};
+combo_chord_en_dgn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_G P_N>;
+    bindings = <&chord_en_dgn>;
+};
+combo_chord_en_einr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_N P_R>;
+    bindings = <&chord_en_einr>;
+};
+combo_chord_en_aceh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_H>;
+    bindings = <&chord_en_aceh>;
+};
+combo_chord_en_afs {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_F P_S>;
+    bindings = <&chord_en_afs>;
+};
+combo_chord_en_efiv {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_F P_I P_V>;
+    bindings = <&chord_en_efiv>;
+};
+combo_chord_en_gin {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_I P_N>;
+    bindings = <&chord_en_gin>;
+};
+combo_chord_en_eilns {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_L P_N P_S>;
+    bindings = <&chord_en_eilns>;
+};
+combo_chord_en_is {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_I P_S>;
+    bindings = <&chord_en_is>;
+};
+combo_chord_en_abel {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_B P_E P_L>;
+    bindings = <&chord_en_abel>;
+};
+combo_chord_en_aelrt {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_L P_R P_T>;
+    bindings = <&chord_en_aelrt>;
+};
+combo_chord_en_els {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_L P_S>;
+    bindings = <&chord_en_els>;
+};
+combo_chord_en_gim {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_I P_M>;
+    bindings = <&chord_en_gim>;
+};
+combo_chord_en_eilmp {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_L P_M P_P>;
+    bindings = <&chord_en_eilmp>;
+};
+combo_chord_en_aelrs {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_L P_R P_S>;
+    bindings = <&chord_en_aelrs>;
+};
+combo_chord_en_elo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_L P_O>;
+    bindings = <&chord_en_elo>;
+};
+combo_chord_en_ado {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_O>;
+    bindings = <&chord_en_ado>;
+};
+combo_chord_en_arw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_R P_W>;
+    bindings = <&chord_en_arw>;
+};
+combo_chord_en_aly {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_L P_Y>;
+    bindings = <&chord_en_aly>;
+};
+combo_chord_en_agi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_G P_I>;
+    bindings = <&chord_en_agi>;
+};
+combo_chord_en_aenp {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_N P_P>;
+    bindings = <&chord_en_aenp>;
+};
+combo_chord_en_los {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_L P_O P_S>;
+    bindings = <&chord_en_los>;
+};
+combo_chord_en_cenr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_N P_R>;
+    bindings = <&chord_en_cenr>;
+};
+combo_chord_en_elov {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_L P_O P_V>;
+    bindings = <&chord_en_elov>;
+};
+combo_chord_en_enop {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_N P_O P_P>;
+    bindings = <&chord_en_enop>;
+};
+combo_chord_en_emno {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_M P_N P_O>;
+    bindings = <&chord_en_emno>;
+};
+combo_chord_en_ersv {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_R P_S P_V>;
+    bindings = <&chord_en_ersv>;
+};
+combo_chord_en_aepr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_P P_R>;
+    bindings = <&chord_en_aepr>;
+};
+combo_chord_en_ador {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_O P_R>;
+    bindings = <&chord_en_ador>;
+};
+combo_chord_en_amp {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_M P_P>;
+    bindings = <&chord_en_amp>;
+};
+combo_chord_en_ceins {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_I P_N P_S>;
+    bindings = <&chord_en_ceins>;
+};
+combo_chord_en_elru {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_L P_R P_U>;
+    bindings = <&chord_en_elru>;
+};
+combo_chord_en_egn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_G P_N>;
+    bindings = <&chord_en_egn>;
+};
+combo_chord_en_lp {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_L P_P>;
+    bindings = <&chord_en_lp>;
+};
+combo_chord_en_cdl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_D P_L>;
+    bindings = <&chord_en_cdl>;
+};
+combo_chord_en_ceino {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_I P_N P_O>;
+    bindings = <&chord_en_ceino>;
+};
+combo_chord_en_ceio {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_I P_O>;
+    bindings = <&chord_en_ceio>;
+};
+combo_chord_en_afl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_F P_L>;
+    bindings = <&chord_en_afl>;
+};
+combo_chord_en_eopr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_O P_P P_R>;
+    bindings = <&chord_en_eopr>;
+};
+combo_chord_en_not {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_N P_O P_T>;
+    bindings = <&chord_en_not>;
+};
+combo_chord_en_efin {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_F P_I P_N>;
+    bindings = <&chord_en_efin>;
+};
+combo_chord_en_acei {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_I>;
+    bindings = <&chord_en_acei>;
+};
+combo_chord_en_fly {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_L P_Y>;
+    bindings = <&chord_en_fly>;
+};
+combo_chord_en_int {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_I P_N P_T>;
+    bindings = <&chord_en_int>;
+};
+combo_chord_en_adel {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_E P_L>;
+    bindings = <&chord_en_adel>;
+};
+combo_chord_en_cr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_R>;
+    bindings = <&chord_en_cr>;
+};
+combo_chord_en_adk {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_K>;
+    bindings = <&chord_en_adk>;
+};
+combo_chord_en_acehi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_H P_I>;
+    bindings = <&chord_en_acehi>;
+};
+combo_chord_en_enot {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_N P_O P_T>;
+    bindings = <&chord_en_enot>;
+};
+combo_chord_en_ait {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_I P_T>;
+    bindings = <&chord_en_ait>;
+};
+combo_chord_en_alnp {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_L P_N P_P>;
+    bindings = <&chord_en_alnp>;
+};
+combo_chord_en_efg {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_F P_G>;
+    bindings = <&chord_en_efg>;
+};
+combo_chord_en_ars {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_R P_S>;
+    bindings = <&chord_en_ars>;
+};
+combo_chord_en_box {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_O P_X>;
+    bindings = <&chord_en_box>;
+};
+combo_chord_en_nou {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_N P_O P_U>;
+    bindings = <&chord_en_nou>;
+};
+combo_chord_en_defil {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_F P_I P_L>;
+    bindings = <&chord_en_defil>;
+};
+combo_chord_en_erst {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_R P_S P_T>;
+    bindings = <&chord_en_erst>;
+};
+combo_chord_en_ceor {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_O P_R>;
+    bindings = <&chord_en_ceor>;
+};
+combo_chord_en_dnop {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_N P_O P_P>;
+    bindings = <&chord_en_dnop>;
+};
+combo_chord_en_deno {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_N P_O>;
+    bindings = <&chord_en_deno>;
+};
+combo_chord_en_abet {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_B P_E P_T>;
+    bindings = <&chord_en_abet>;
+};
+combo_chord_en_dei {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_I>;
+    bindings = <&chord_en_dei>;
+};
+combo_chord_en_dos {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_O P_S>;
+    bindings = <&chord_en_dos>;
+};
+combo_chord_en_aci {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_I>;
+    bindings = <&chord_en_aci>;
+};
+combo_chord_en_fn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_N>;
+    bindings = <&chord_en_fn>;
+};
+combo_chord_en_aceht {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_H P_T>;
+    bindings = <&chord_en_aceht>;
+};
+combo_chord_en_ekw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_K P_W>;
+    bindings = <&chord_en_ekw>;
+};
+combo_chord_en_afil {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_F P_I P_L>;
+    bindings = <&chord_en_afil>;
+};
+combo_chord_en_aegv {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_G P_V>;
+    bindings = <&chord_en_aegv>;
+};
+combo_chord_en_egnr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_G P_N P_R>;
+    bindings = <&chord_en_egnr>;
+};
+combo_chord_en_cik {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_I P_K>;
+    bindings = <&chord_en_cik>;
+};
+combo_chord_en_del {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_L>;
+    bindings = <&chord_en_del>;
+};
+combo_chord_en_elps {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_L P_P P_S>;
+    bindings = <&chord_en_elps>;
+};
+combo_chord_en_amr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_M P_R>;
+    bindings = <&chord_en_amr>;
+};
+combo_chord_en_efr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_F P_R>;
+    bindings = <&chord_en_efr>;
+};
+combo_chord_en_eim {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_I P_M>;
+    bindings = <&chord_en_eim>;
+};
+combo_chord_en_gnor {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_N P_O P_R>;
+    bindings = <&chord_en_gnor>;
+};
+combo_chord_en_aceil {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_I P_L>;
+    bindings = <&chord_en_aceil>;
+};
+combo_chord_en_dim {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_I P_M>;
+    bindings = <&chord_en_dim>;
+};
+combo_chord_en_bde {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_D P_E>;
+    bindings = <&chord_en_bde>;
+};
+combo_chord_en_acelr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_L P_R>;
+    bindings = <&chord_en_acelr>;
+};
+combo_chord_en_ailt {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_I P_L P_T>;
+    bindings = <&chord_en_ailt>;
+};
+combo_chord_en_cdeo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_D P_E P_O>;
+    bindings = <&chord_en_cdeo>;
+};
+combo_chord_en_acf {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_F>;
+    bindings = <&chord_en_acf>;
+};
+combo_chord_en_chi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_H P_I>;
+    bindings = <&chord_en_chi>;
+};
+combo_chord_en_lot {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_L P_O P_T>;
+    bindings = <&chord_en_lot>;
+};
+combo_chord_en_ghino {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_G P_H P_I P_N P_O>;
+    bindings = <&chord_en_ghino>;
+};
+combo_chord_en_ceors {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_O P_R P_S>;
+    bindings = <&chord_en_ceors>;
+};
+combo_chord_en_ast {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_S P_T>;
+    bindings = <&chord_en_ast>;
+};
+combo_chord_en_ehlw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_H P_L P_W>;
+    bindings = <&chord_en_ehlw>;
+};
+combo_chord_en_flu {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_L P_U>;
+    bindings = <&chord_en_flu>;
+};
+combo_chord_en_cef {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_F>;
+    bindings = <&chord_en_cef>;
+};
+combo_chord_en_belu {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_E P_L P_U>;
+    bindings = <&chord_en_belu>;
+};
+combo_chord_en_bc {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_C>;
+    bindings = <&chord_en_bc>;
+};
+combo_chord_en_acefr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_C P_E P_F P_R>;
+    bindings = <&chord_en_acefr>;
+};
+combo_chord_en_dep {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_P>;
+    bindings = <&chord_en_dep>;
+};
+combo_chord_en_mn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_M P_N>;
+    bindings = <&chord_en_mn>;
+};
+combo_chord_en_adil {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_I P_L>;
+    bindings = <&chord_en_adil>;
+};
+combo_chord_en_fot {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_O P_T>;
+    bindings = <&chord_en_fot>;
+};
+combo_chord_en_et {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_T>;
+    bindings = <&chord_en_et>;
+};
+combo_chord_en_bs {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_S>;
+    bindings = <&chord_en_bs>;
+};
+combo_chord_en_cdeor {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_D P_E P_O P_R>;
+    bindings = <&chord_en_cdeor>;
+};
+combo_chord_en_abo {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_B P_O>;
+    bindings = <&chord_en_abo>;
+};
+combo_chord_en_cm {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_M>;
+    bindings = <&chord_en_cm>;
+};
+combo_chord_en_dgl {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_G P_L>;
+    bindings = <&chord_en_dgl>;
+};
+combo_chord_en_bei {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_E P_I>;
+    bindings = <&chord_en_bei>;
+};
+combo_chord_en_aeln {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_L P_N>;
+    bindings = <&chord_en_aeln>;
+};
+combo_chord_en_dr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_R>;
+    bindings = <&chord_en_dr>;
+};
+combo_chord_en_denor {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_D P_E P_N P_O P_R>;
+    bindings = <&chord_en_denor>;
+};
+combo_chord_en_agh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_G P_H>;
+    bindings = <&chord_en_agh>;
+};
+combo_chord_en_adhn {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_D P_H P_N>;
+    bindings = <&chord_en_adhn>;
+};
+combo_chord_en_ago {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_G P_O>;
+    bindings = <&chord_en_ago>;
+};
+combo_chord_en_anr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_N P_R>;
+    bindings = <&chord_en_anr>;
+};
+combo_chord_en_ceh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_C P_E P_H>;
+    bindings = <&chord_en_ceh>;
+};
+combo_chord_en_aegm {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_G P_M>;
+    bindings = <&chord_en_aegm>;
+};
+combo_chord_en_aehp {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_H P_P>;
+    bindings = <&chord_en_aehp>;
+};
+combo_chord_en_esy {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_S P_Y>;
+    bindings = <&chord_en_esy>;
+};
+combo_chord_en_hot {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_H P_O P_T>;
+    bindings = <&chord_en_hot>;
+};
+combo_chord_en_im {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_I P_M>;
+    bindings = <&chord_en_im>;
+};
+combo_chord_en_bgh {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_G P_H>;
+    bindings = <&chord_en_bgh>;
+};
+combo_chord_en_aeht {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_H P_T>;
+    bindings = <&chord_en_aeht>;
+};
+combo_chord_en_nosw {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_N P_O P_S P_W>;
+    bindings = <&chord_en_nosw>;
+};
+combo_chord_en_bgi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_B P_G P_I>;
+    bindings = <&chord_en_bgi>;
+};
+combo_chord_en_ist {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_I P_S P_T>;
+    bindings = <&chord_en_ist>;
+};
+combo_chord_en_aehpr {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_H P_P P_R>;
+    bindings = <&chord_en_aehpr>;
+};
+combo_chord_en_fil {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_F P_I P_L>;
+    bindings = <&chord_en_fil>;
+};
+combo_chord_en_eghi {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_E P_G P_H P_I>;
+    bindings = <&chord_en_eghi>;
+};
+combo_chord_en_aegln {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_E P_G P_L P_N>;
+    bindings = <&chord_en_aegln>;
+};
+combo_chord_en_agm {
+    timeout-ms = <COMBO_TIMEOUT>;
+    key-positions = <P_COMBO P_A P_G P_M>;
+    bindings = <&chord_en_agm>;
+};
